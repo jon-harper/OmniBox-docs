@@ -163,7 +163,7 @@ Large (tall) power supplies require the use of a [base extension shim](#base-ext
 - [GitHub Folder][git_psu]
 - Supported power supplies:
     - [Mean Well LRS-350 series][git_psu_lrs350]
-    - [Mean Well RSP-500 series][git_psu_rsp500] (experimental, requires base extension)
+    - [Mean Well RSP-500 series][git_psu_rsp500] (prelimary, requires base extensions)
 
 ### :material-alpha-t-box: :material-alpha-m-box-outline: MCU Tray
 

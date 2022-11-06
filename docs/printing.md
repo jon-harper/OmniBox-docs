@@ -20,7 +20,7 @@ These settings are consistent for all parts.
 | Perimeters (Walls) | 1.2mm+      | 3 perimeters with a 0.4mm nozzle. 1.5mm+ results in solid main body side walls. |
 | Infill             | 20-25%      | Cubic is a good tradeoff for time and durability. |
 | Material           | PLA/PLA+    | PETG may take longer to print on many printers but is still possible. |
-| Nozzle Diameter    | 0.4mm       | 0.6mm should also work. If you print a case with a different nozzle size, please share your results! |
+| Nozzle Diameter    | 0.4mm, 0.6mm | If you print a case with a different nozzle size, please share your results! |
 
 ### Settings Specific to :material-alpha-c-box: Core
 

@@ -21,14 +21,14 @@ Each supported MCU display screen has a subfolder in the [`/Panels/Display`][git
 
 Component names below link to the corresponding git folder.
 
-| Component            | Image | Notes |
+| Product              | Image  | Notes |
 |----------------------|--------|-------|
 | [Generic 12864][git_generic_12864] | ![img](../img/parts/classic_12864.jpg) | Also known as Creality CR-10 stock display; comes on most Creality printers. |
-| [FYSETC Mini 12864][git_mini_12864] | ![img](../img/parts/mini12864.jpg)  | This includes BTT brand and other clones. |
+| [FYSETC Mini 12864][git_mini_12864] | ![img](../img/parts/mini12864.jpg)  | This includes BIGTREETECH brand and other clones. |
 | [BIGTREETECH 2.4" TFT][git_btt_tft_24] | ![img](../img/parts/btt_tft_2.4.jpg)  | This product is discontinued, but I still use it, so there's a part. |
 | [BIGTREETECH 3.5" TFT][git_btt_tft_35] | ![img](../img/parts/btt_tft_3.5.jpg)  | Note that this is not the E3 version, which would use the Generic 12864 mount. |
-| [BIGTREETECH 3.5" TFT E3][git_generic_12864] | ![img]  | Uses the Generic 12864 mount. |
-| [BIGTREETECH 5.0" TFT][git_btt_tft_50] |   | |
+| [BIGTREETECH 3.5" TFT E3][git_generic_12864] | ![img][img_btt_tft35_e3]  | Uses the Generic 12864 mount. |
+| [BIGTREETECH 5.0" TFT][git_btt_tft_50] |   | **(Preliminary)** |
 
 Most mounts require four (4) 6mm or M3 screws to fasten the display in place. Some mounts have two or three pieces and require additional screws.
 
@@ -66,3 +66,4 @@ See below for examples.
 [img_display]: ../img/components/display.png
 [img_rpi_display]: ../img/examples/rpi_display.png
 [img_rpi_lid]: ../img/examples/rpi_lid.png
+[img_btt_tft35_e3]: ../img/parts/btt_35tft_e3.jpg

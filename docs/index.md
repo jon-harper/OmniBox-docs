@@ -50,9 +50,9 @@ See the [Version History][current_release] page for information on the latest re
 Printing OmniBox is a time investment. This makes incompatibility between versions difficult; upgrading one printed part should not require others to be reprinted. Thankfully, OmniBox is highly modular and can be upgraded piece by piece.
 
 !!! note
-    Prior versions of this page had the Version Stability Guarantee fully in place. I have relaxed it until version 1.0 to deprecate M4-mounted parts and to improve the Core design before version 1.0.
+    Prior versions of this page had the Version Stability Guarantee fully in place. I have relaxed it until version 1.0 in order to deprecate M4-mounted parts.
 
-    No reprinting is necessary to use deprecated M4 panels with M3 screws. Until version 1.0, component mounts will be issued with STLs for both M3 and M4 screws.
+    No reprinting is necessary to use deprecated M4 panels with M3 screws. 
 
 ### Current Release (Pre-1.0)
 
@@ -68,12 +68,11 @@ See the [Guided Tour][tour] to see how this works in practice.
 
 [gallery_thumb]: img/examples/gallery_thumb.png
 [gallery]: img/examples/gallery.png
+
 [current_release]: history/index.md "Version History (Current Release)"
-
-[tour]: tour.md "Guided Tour"
-[support]: support/index.md "Supported Parts List"
-[bom]: bom.md "Bill of Materials"
-[printing]: printing.md "Printing Guide"
-
-[assembly]: assembly/index.md "Assembly Guide"
-[license]: license.md
+[tour]:     tour.md                 "Guided Tour"
+[support]:  support/index.md        "Supported Parts List"
+[bom]:      bom.md                  "Bill of Materials"
+[printing]: printing.md             "Printing Guide"
+[assembly]: assembly_v2/index.md       "Assembly Guide"
+[license]:  license.md              "Contributing and License"

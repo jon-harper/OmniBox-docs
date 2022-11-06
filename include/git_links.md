@@ -44,6 +44,8 @@
 
 <!--      /Front Panel -->
 [git_front_panel]:      https://github.com/jon-harper/OmniBox/tree/main/Panels/Front%20Panel                "OmniBox GitHub: Front Panels"
+[git_front_sd_no_usb]:  https://github.com/jon-harper/OmniBox/tree/0.9.9-unstable/Panels/Front%20Panel/Lanmu%20Micro%20SD%20Extension/No%20USB "OmniBox GitHub: Front Panel with MicroSD Extension (No USB)"
+
 
 <!--      /Lid -->
 [git_lid]:              https://github.com/jon-harper/OmniBox/tree/main/Panels/Lid/                         "OmniBox GitHub: Lids"

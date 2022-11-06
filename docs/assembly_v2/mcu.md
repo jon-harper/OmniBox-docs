@@ -9,7 +9,7 @@ date: 2022-10-30
 
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/mcu.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/mcu.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 

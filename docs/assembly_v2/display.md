@@ -10,30 +10,41 @@ This section covers assembling a generic 12864 display panel, like the kind comm
 Common aftermarket TFT displays have an extra step of mounting the display to a cover. The cover then attaches to the panel. Other than this, the installation process remains the same.
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/display.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/display.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ## Materials
+
+=== "As Illustrated"
+
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M3 x 6mm machine screws   | 4   |                                 |
+    | M3 x 8mm machine screws   | 4   | May substitute 10mm or 12mm.    |
+    | Generic 12864 LCD         | 1   | Comes with many Creality printers. |
+    | [:material-alpha-p-box: :material-alpha-d-box-outline: Display Panel][git_generic_12864] | 1   | :material-printer-3d-nozzle: Printed |
+    | Display Knob | 1 | :material-printer-3d-nozzle: Printed, Optional |
+
 
 === "Stock"
 
     | Parts                     | Qty | Note                            |
     |---------------------------|-----|---------------------------------|
-    | M4 x 6mm machine screws   | 4   |                                 |
-    | M4 x 8mm machine screws   | 4   | May substitute 10mm or 12mm.    |
-    | LCD display               | 1   | Illustrated: Generic 12864 LCD  |
+    | M3 x 12mm machine screws  | 4   | Can also use 10mm.              |
+    | Compatible LCD display    | 1   |                                 |
     | :material-alpha-p-box: :material-alpha-d-box-outline: Display Panel | 1   | :material-printer-3d-nozzle: Printed |
-    | Display Knob | 1 | :material-printer-3d-nozzle: Printed, Optional |
 
 === "HSI"
 
     | Parts                     | Qty | Note                            |
     |---------------------------|-----|---------------------------------|
-    | M4 x 6mm machine screws   | 4   |                                 |
-    | M4 x 8mm machine screws   | 4   |                                 |
-    | LCD display               | 1   | Illustrated: Generic 12864 LCD  |
+    | M3 x 8mm machine screws   | 4   |                                 |
+    | Compatible LCD display    | 1   | |
     | :material-alpha-p-box: :material-alpha-d-box-outline: Display Panel | 1   | :material-printer-3d-nozzle: Printed |
-    | Display Knob | 1 | :material-printer-3d-nozzle: Printed, Optional |
 
+
+!!! note
+    The Stock and HSI materials lists do not include the hardware needed to mount the display to the panel. Only hardware common to all configurations are listed.
+    
 ## Directions
                                                             
 <figure markdown>

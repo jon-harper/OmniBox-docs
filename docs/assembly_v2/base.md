@@ -10,7 +10,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 ## PSU Tray
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/psu.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/psu.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 
@@ -54,7 +54,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 ## Prepare the Base
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/base_prep.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/base_prep.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 
@@ -114,7 +114,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 ## Combine Base and PSU
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/base.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/base.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 

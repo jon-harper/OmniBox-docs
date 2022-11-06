@@ -6,7 +6,7 @@ date: 2022-11-01
 ---
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/hsi_rear.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/hsi_rear.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 

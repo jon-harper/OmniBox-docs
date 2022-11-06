@@ -10,7 +10,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 ## Attach the :material-alpha-c-box: :material-alpha-m-box-outline: Main Body
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/main_floor.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/main_floor.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 
@@ -56,7 +56,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 ## Secure and Align the Center
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/main_center.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/main_center.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 
@@ -93,7 +93,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 ## Add Fans
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/fans.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/fans.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 
@@ -135,7 +135,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 ## Attach Crossbar
 
 ??? note "Video Overview"
-    <iframe src="https://jon-harper.github.io/OmniBox/video/crossbar.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/crossbar.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials 
 

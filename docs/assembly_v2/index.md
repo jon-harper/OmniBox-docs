@@ -26,10 +26,9 @@ This section introduces HSIs, using them, and installing them in the case.
 
 Skip this section if you did not print an HSI case.
 
-!!! note
-    There are 24 inserts. Experienced users following this guide should be able to install all inserts in less than 30 minutes.
-    
-    Gaining some experience with inserts saves time later and lowers the chances of damaging a printed part. If you plan to use inserts and have not practiced, it is recommended that you print at least one [practice block][git_hsi_practice] to gain a level of comfort.
+Experienced users following this guide should be able to install all inserts in less than 30 minutes.
+
+Gaining experience with inserts saves time and lowers the chances of printed part damage. If you are using inserts for the first time, it is recommended that you print at least one [practice block][git_hsi_practice] to gain a level of comfort.
 
 #### 2. :material-alpha-c-box: Core & :material-alpha-t-box: :material-alpha-p-box-outline: PSU
 
@@ -39,20 +38,20 @@ The section finishes by installing the Main Body.
 
 #### 3. :material-alpha-t-box: :material-alpha-c-box-outline: CPU & :material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Trays
 
-The second layer of the case adds the SoC CPU and lower bay components. By the end of this section, all electronics not mounted on a panel will be installed and wired.
+The second layer of the case adds the SoC CPU and lower bay components. By the end of this section, the "floor" of the case and front panel will be installed.
 
 #### 4. :material-alpha-t-box: :material-alpha-m-box-outline: MCU & :material-alpha-p-box: Panels
 
-At this point, assembly centers around the MCU, final wiring, and closing up the case.
+At this point, assembly centers around the MCU, wiring, and closing up the case.
 
 ### Format
 
 Each section of the assembly has four parts:
 
-- A short (3-10 second) optional video showing the combined assembly steps of that section. These videos are meant to give an overview of the following steps.
-- A list of materials used and quantity
-- Step-by-step illustrated instructions
-- A final reference image
+- A short (3-15 second) optional video;
+- A list of materials used and quantity;
+- Step-by-step illustrated instructions; and
+- A final reference image.
 
 All graphics can be enlarged to see detail by clicking or tapping.
 
@@ -88,6 +87,11 @@ Assembly relies on a few concepts that are reused through this guide.
 Screws thread directly into the walls of the plastic where heat set inserts are not used.
 
 For example, lower bay trays attach to the main body with M3 screws. The trays have holes larger than the diameter of the screw, but the holes in the standoff are *smaller*. This lets the screw "bite" the plastic of the standoff and the screw head to clamp down on the tray.
+
+!!! note
+    Parts of the case that are frequently removed have deeper-than-necessary screw holes. You can use replace your screws with longer ones to get "fresh" plastic for the threads as the walls wear down.
+
+    This is most common with the lid, since it is removed most often. Over time you may need to switch from 8mm to 10mm screws, for example.
 
 ### Example Image Orientation
 

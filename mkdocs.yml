@@ -9,8 +9,7 @@ copyright: Copyright &copy; 2022 Jonathan Harper
 
 theme:
   name: material
-  icon:
-    logo: material/book-open-variant
+  logo: img/logo.png
   features:
     - navigation.instant
     - navigation.sections
@@ -96,7 +95,7 @@ nav:
       - assembly_v2/cpu.md
       - assembly_v2/side.md
       - assembly_v2/lower_bay.md
-      # - assembly_v2/front.md
+      - assembly_v2/front.md
     - MCU & Panels:
       # - assembly_v2/rear.md
       - assembly_v2/mcu.md

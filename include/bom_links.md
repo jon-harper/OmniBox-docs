@@ -10,6 +10,7 @@
 [bom_iec]:              https://www.amazon.com/gp/product/B081ZFHRGW                                             "Amazon: IEC C14 socket with fuse"
 [bom_fork_connector]:   https://www.amazon.com/Baomain-Insulated-Connector-Electrical-Terminal/dp/B01B1DL4OA     "Amazon: Fork connectors, 14-16awg"
 [bom_spade_connector]:  https://www.amazon.com/gp/product/B07FQB6WXP                                             "Amazon: Female spade connectors, 14-16awg"
+[bom_lanmu_micro_sd]:   https://www.amazon.com/gp/product/B07WWVBK8V                                             "Amazon: LANMU Micro SD Card Extension"
 
 <!-- PSU -->
 [bom_lrs350]:           https://www.amazon.com/MEAN-WELL-LRS-350-24-Printer-Industrial/dp/B07VRK86SP             "Amazon: Mean Well LRS-350-24"
@@ -29,6 +30,7 @@
 <!-- SoC CPUs -->
 
 <!-- Displays -->
+[bom_btt_tft35_e3]:    https://www.amazon.com/BIGTREETECH-TFT35-E3-V3-0-1-Motherboard/dp/B08182XHZZ             "Amazon: BIGTREETECH TFT35 E3 v3.0.1"
 
 <!-- Lower Bay -->
 <!--     Bucks -->
