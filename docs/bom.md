@@ -121,4 +121,4 @@ Most configurations use a display and many have an SBC, such as a Raspberry Pi. 
 See the [Supported Parts Overview][support] for a full list of parts and mounting locations. Some configurations require additional fasteners or fans.
 
 [support]: support/index.md
-[assembly]: assembly/index.md
+[assembly]: assembly_v2/index.md
