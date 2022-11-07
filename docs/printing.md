@@ -11,16 +11,20 @@ This page has common settings for printing OmniBox and a printed component check
 
 ### General Settings
 
-These settings are consistent for all parts.
+These settings are consistent for all parts but the optional fan gaskets.
 
-| Setting            | Value       | Note |
+| Setting            | Value       | Notes |
 |--------------------|-------------|------|
 | Layer Height       | 0.2-0.24mm  | Coarser settings have not been tested. |
 | Adaptive Layer Height | Optional | Can improve appearance and reduce print time.    |
 | Perimeters (Walls) | 1.2mm+      | 3 perimeters with a 0.4mm nozzle. 1.5mm+ results in solid main body side walls. |
 | Infill             | 20-25%      | Cubic is a good tradeoff for time and durability. |
-| Material           | PLA/PLA+    | PETG may take longer to print on many printers but is still possible. |
+| Material           | PLA/PLA+    | See note below. |
 | Nozzle Diameter    | 0.4mm, 0.6mm | If you print a case with a different nozzle size, please share your results! |
+
+!!! note
+    - The case can be printed in PETG but may take longer.
+    - TPU is only used with fan gaskets, which are optional.
 
 ### Settings Specific to :material-alpha-c-box: Core
 
@@ -33,6 +37,8 @@ These settings are consistent for all parts.
 
 This is a checklist of *types* parts to print. See the [guided tour][tour] for help selecting the right STL files from the git repository.
 
+### Core
+
 | Component                                                                                                  | Quantity | Required | Notes  |
 |------------------------------------------------------------------------------------------------------------|----------|----------|--------|
 | [:material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-f-box-outline: Base - Front][git_base_front] | 1 | Yes    |        |
@@ -40,16 +46,35 @@ This is a checklist of *types* parts to print. See the [guided tour][tour] for h
 | [:material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-c-box-outline: Main Body - Crossbar][git_main_body_crossbar] | 1 | Yes | |
 | [:material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-f-box-outline: Main Body - Front][git_main_body_front] | 1 | Yes | See the [tour][tour] on choosing a version to print. |
 | [:material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-r-box-outline: Main Body - Rear][git_main_body_rear] | 1 | Yes | See the [tour][tour] on choosing a version to print. |
-| [:material-alpha-t-box: :material-alpha-m-box-outline: MCU Tray][git_mcu]                 | 1        | Yes      |       |
-| [:material-alpha-t-box: :material-alpha-c-box-outline: CPU Tray][git_cpu]                 | 1        | See note | If unused, replace with an extra side panel. |
-| [:material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Trays][git_lower_bay]    | 0-6      | No       | Type and quantity are specific to configuration. |
-| [:material-alpha-p-box: :material-alpha-d-box-outline: Display Mount][git_display]  | 1        | Yes      |       |
-| [:material-alpha-p-box: :material-alpha-l-box-outline: Lid][git_lid]                | 1-2      | Yes      | One (1) long lid or two (2) short lids. |
-| [:material-alpha-p-box: :material-alpha-r-box-outline: Rear Panel][git_rear_panel]  | 1        | Yes      |       |
-| [:material-alpha-p-box: :material-alpha-b-box-outline: Bottom Panel][git_bottom_panel] | 1        | Yes      |       |
-| [:material-alpha-p-box: :material-alpha-s-box-outline: Side Panel][git_side_panel]  | 1        | Yes      |       |
-| [:material-alpha-f-box: :material-alpha-c-box-outline: Fan Cages][git_fans]                | See note | Yes      | Quantity and size depend on configuration. |
-| [:material-alpha-f-box: :material-alpha-g-box-outline: Fan Gaskets][git_fans]          | See note | No       | Quantity and size depend on configuration; pairs with a fan cage. |
 | [Base Extension][git_base_extension] | 1 | See note | Required when using a Mean Well RSP-500 power supply, otherwise optional. |
+
+### Trays
+
+| Component                                                                              | Quantity | Required | Notes  |
+|----------------------------------------------------------------------------------------|----------|----------|--------|
+| [:material-alpha-t-box: :material-alpha-p-box-outline: PSU Tray][git_psu]              | 1        | Yes      |        |
+| [:material-alpha-t-box: :material-alpha-m-box-outline: MCU Tray][git_mcu]              | 1        | Yes      |        |
+| [:material-alpha-t-box: :material-alpha-c-box-outline: CPU Tray][git_cpu]              | 0-1      | No       | If unused, replace with an extra side panel. |
+| [:material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Trays][git_lower_bay] | 0-6    | No       | Type and quantity are specific to configuration. |
+
+### Panels
+
+| Component                                                                              | Quantity | Required | Notes  |
+|----------------------------------------------------------------------------------------|----------|----------|--------|
+| [:material-alpha-p-box: :material-alpha-d-box-outline: Display Mount][git_display]     | 1      | Yes      |       |
+| [:material-alpha-p-box: :material-alpha-l-box-outline: Lid][git_lid]                   | 1-2    | Yes      | One (1) long lid or two (2) short lids. |
+| [:material-alpha-p-box: :material-alpha-r-box-outline: Rear Panel][git_rear_panel]     | 1      | Yes      |       |
+| [:material-alpha-p-box: :material-alpha-b-box-outline: Bottom Panel][git_bottom_panel] | 1      | Yes      |       |
+| [:material-alpha-p-box: :material-alpha-s-box-outline: Side Panel][git_side_panel]     | 1-2    | Yes      | One (1) with a CPU tray, two (2) without. |
+
+### Other Components
+
+!!! note
+    For fan cages and gaskets, quantity and size depend on configuration.
+
+| Component                                                                              | Quantity | Required | Notes  |
+|----------------------------------------------------------------------------------------|----------|----------|--------|
+| [:material-alpha-f-box: :material-alpha-c-box-outline: Fan Cages][git_fans]            | See note | Yes      | Required in certain configurations. |
+| [:material-alpha-f-box: :material-alpha-g-box-outline: Fan Gaskets][git_fans]          | See note | No       |        |
 
 [tour]: tour.md "Visual Guided Tour"
