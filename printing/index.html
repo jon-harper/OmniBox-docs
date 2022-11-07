@@ -522,6 +522,40 @@
     Printed Component Checklist
   </a>
   
+    <nav class="md-nav" aria-label="Printed Component Checklist">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#core" class="md-nav__link">
+    Core
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trays" class="md-nav__link">
+    Trays
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#panels" class="md-nav__link">
+    Panels
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other-components" class="md-nav__link">
+    Other Components
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -1126,6 +1160,40 @@
     Printed Component Checklist
   </a>
   
+    <nav class="md-nav" aria-label="Printed Component Checklist">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#core" class="md-nav__link">
+    Core
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#trays" class="md-nav__link">
+    Trays
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#panels" class="md-nav__link">
+    Panels
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#other-components" class="md-nav__link">
+    Other Components
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -1148,13 +1216,13 @@
 <p>This page has common settings for printing OmniBox and a printed component checklist. See the <a href="../tour/" title="Visual Guided Tour">guided tour</a> for help choosing the correct parts.</p>
 <h2 id="3d-printing-settings">3D Printing Settings</h2>
 <h3 id="general-settings">General Settings</h3>
-<p>These settings are consistent for all parts.</p>
+<p>These settings are consistent for all parts but the optional fan gaskets.</p>
 <table>
 <thead>
 <tr>
 <th>Setting</th>
 <th>Value</th>
-<th>Note</th>
+<th>Notes</th>
 </tr>
 </thead>
 <tbody>
@@ -1181,7 +1249,7 @@
 <tr>
 <td>Material</td>
 <td>PLA/PLA+</td>
-<td>PETG may take longer to print on many printers but is still possible.</td>
+<td>See note below.</td>
 </tr>
 <tr>
 <td>Nozzle Diameter</td>
@@ -1190,6 +1258,13 @@
 </tr>
 </tbody>
 </table>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<ul>
+<li>The case can be printed in PETG but may take longer.</li>
+<li>TPU is only used with fan gaskets, which are optional.</li>
+</ul>
+</div>
 <h3 id="settings-specific-to-core">Settings Specific to <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m6 4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1h-2v1h-2V9h2v1h2V9a2 2 0 0 0-2-2h-2Z"/></svg></span> Core</h3>
 <ul>
 <li>Supports should be left on.</li>
@@ -1199,6 +1274,7 @@
 </ul>
 <h2 id="printed-component-checklist">Printed Component Checklist</h2>
 <p>This is a checklist of <em>types</em> parts to print. See the <a href="../tour/" title="Visual Guided Tour">guided tour</a> for help selecting the right STL files from the git repository.</p>
+<h3 id="core">Core</h3>
 <table>
 <thead>
 <tr>
@@ -1240,6 +1316,31 @@
 <td>See the <a href="../tour/" title="Visual Guided Tour">tour</a> on choosing a version to print.</td>
 </tr>
 <tr>
+<td><a href="https://github.com/jon-harper/OmniBox/tree/main/Core/Base/Extension%20Shim" title="OmniBox GitHub: Base Extension Shim">Base Extension</a></td>
+<td>1</td>
+<td>See note</td>
+<td>Required when using a Mean Well RSP-500 power supply, otherwise optional.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="trays">Trays</h3>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Quantity</th>
+<th>Required</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/jon-harper/OmniBox/tree/main/Trays/PSU/" title="OmniBox GitHub: Power Supplies (PSUs)"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7v2h2v8h2V9h2V7H9M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7h4a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-2v4H9V7m2 2v2h2V9h-2M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m0 2v14h14V5H5Z"/></svg></span> PSU Tray</a></td>
+<td>1</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
 <td><a href="https://github.com/jon-harper/OmniBox/tree/main/Trays/MCU/" title="OmniBox GitHub: MCU Trays"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7v2h2v8h2V9h2V7H9M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7h6a2 2 0 0 1 2 2v8h-2V9h-2v7h-2V9H9v8H7V9a2 2 0 0 1 2-2M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m0 2v14h14V5H5Z"/></svg></span> MCU Tray</a></td>
 <td>1</td>
 <td>Yes</td>
@@ -1247,8 +1348,8 @@
 </tr>
 <tr>
 <td><a href="https://github.com/jon-harper/OmniBox/tree/main/Trays/CPU/" title="OmniBox GitHub: CPU Trays"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7v2h2v8h2V9h2V7H9M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5m2 0v14h14V5H5m6 2h2a2 2 0 0 1 2 2v1h-2V9h-2v6h2v-1h2v1a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2Z"/></svg></span> CPU Tray</a></td>
-<td>1</td>
-<td>See note</td>
+<td>0-1</td>
+<td>No</td>
 <td>If unused, replace with an extra side panel.</td>
 </tr>
 <tr>
@@ -1257,6 +1358,19 @@
 <td>No</td>
 <td>Type and quantity are specific to configuration.</td>
 </tr>
+</tbody>
+</table>
+<h3 id="panels">Panels</h3>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Quantity</th>
+<th>Required</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td><a href="https://github.com/jon-harper/OmniBox/tree/main/Panels/Display" title="OmniBox GitHub: Display Panels"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7v10h2v-4h2a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2H9m2 2h2v2h-2V9M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7h4a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H9V7m2 2v6h2V9h-2M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5m2 0v14h14V5H5Z"/></svg></span> Display Mount</a></td>
 <td>1</td>
@@ -1283,27 +1397,38 @@
 </tr>
 <tr>
 <td><a href="https://github.com/jon-harper/OmniBox/tree/main/Panels/Side%20Panel" title="OmniBox GitHub: Side Panels"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7v10h2v-4h2a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2H9m2 2h2v2h-2V9M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 7h4v2h-4v2h2a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2H9v-2h4v-2h-2a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m0 2v14h14V5H5Z"/></svg></span> Side Panel</a></td>
-<td>1</td>
+<td>1-2</td>
 <td>Yes</td>
-<td></td>
+<td>One (1) with a CPU tray, two (2) without.</td>
 </tr>
+</tbody>
+</table>
+<h3 id="other-components">Other Components</h3>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>For fan cages and gaskets, quantity and size depend on configuration.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Quantity</th>
+<th>Required</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td><a href="https://github.com/jon-harper/OmniBox/tree/main/Fans" title="OmniBox GitHub: Fans"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7v10h2v-4h3v-2h-3V9h4V7H9M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5m2 0v14h14V5H5m6 2h2a2 2 0 0 1 2 2v1h-2V9h-2v6h2v-1h2v1a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2Z"/></svg></span> Fan Cages</a></td>
 <td>See note</td>
 <td>Yes</td>
-<td>Quantity and size depend on configuration.</td>
+<td>Required in certain configurations.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/jon-harper/OmniBox/tree/main/Fans" title="OmniBox GitHub: Fans"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7v10h2v-4h3v-2h-3V9h4V7H9M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/></svg></span> <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 7h4v2h-4v6h2v-4h2v4a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2M3 5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5m2 0v14h14V5H5Z"/></svg></span> Fan Gaskets</a></td>
 <td>See note</td>
 <td>No</td>
-<td>Quantity and size depend on configuration; pairs with a fan cage.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/jon-harper/OmniBox/tree/main/Core/Base/Extension%20Shim" title="OmniBox GitHub: Base Extension Shim">Base Extension</a></td>
-<td>1</td>
-<td>See note</td>
-<td>Required when using a Mean Well RSP-500 power supply, otherwise optional.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
