@@ -94,6 +94,16 @@
 [git_lower_bay]:            https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/                  "OmniBox GitHub: Lower Bay Trays"
 [git_lower_bay_template]:   https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/Template          "OmniBox GitHub: Lower Bay Tray Templates"
 
+[git_drok_2A]:          https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/DROK%20LM2596%20with%20LED "OmniBox GitHub: DROK 2A LM2596 with LED"
+[git_drok_3A]:          https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/DROK%203A%20LM2596%20with%20LED "OmniBox GitHub: DROK 3A LM2596 with LED"
+[git_drok_5A]:          https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/DROK%205A%20Buck%20with%20LED "OmniBox GitHub: Drok 5A Buck Converter"
+[git_hiletgo_2A]:       https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/HiLetGo%20LM2596%20with%20LED "OmniBox GitHub: HiLetGo 2A LM2596 with LED"
+[git_basic_lm2596]:     https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/Generic%20LM2596      "OmniBox GitHub: Basic LM2596"
+[git_tray_4010]:        https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/40mm%20Fan            "OmniBox GitHub: 40mm Fan Tray"
+[git_wago_221]:         https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/Wago%20Lever%20Nuts   "OmniBox GitHub: Wago 221 Lever Nuts Trays"
+[git_fotek_ssr40da]:    https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/Fotek%20SSR-40%20DA   "OmniBox GitHub: Fotek SSR-40 DA Tray"
+[git_creality_mosfet]:  https://github.com/jon-harper/OmniBox/tree/0.9.9-beta/Trays/Lower%20Bay/Creality%20MOSFET "OmniBox GitHub: Creality MOSFET Tray"
+
 <!--     /PSUs -->
 [git_psu]:              https://github.com/jon-harper/OmniBox/tree/main/Trays/PSU/                              "OmniBox GitHub: Power Supplies (PSUs)"
 [git_psu_lrs350]:       https://github.com/jon-harper/OmniBox/tree/main/Core/Trays/PSU/Mean%20Well%20LRS-350    "OmniBox GitHub: Mean Well LRS-350 Series PSUs"

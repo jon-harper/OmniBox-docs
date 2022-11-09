@@ -11,6 +11,10 @@
 [bom_fork_connector]:   https://www.amazon.com/Baomain-Insulated-Connector-Electrical-Terminal/dp/B01B1DL4OA     "Amazon: Fork connectors, 14-16awg"
 [bom_spade_connector]:  https://www.amazon.com/gp/product/B07FQB6WXP                                             "Amazon: Female spade connectors, 14-16awg"
 [bom_lanmu_micro_sd]:   https://www.amazon.com/gp/product/B07WWVBK8V                                             "Amazon: LANMU Micro SD Card Extension"
+[bom_usb_b_extension]:  https://www.amazon.com/gp/product/B071P2BGK5                                             "Amazon: USB B Panel Mount Extension"
+[bom_usb_c_extension]:  https://www.amazon.com/Poyiccot-Extension-Female-Extender-Straight/dp/B086W2R8Z6         "Amazon: USB-C Panel Mount Extension"
+[bom_jst_sm_kit]:       https://www.amazon.com/gp/product/B07D9HRDT6                                             "Amazon: JST-SM Connector Kit"
+[bom_molex]:            https://www.digikey.com/en/htmldatasheets/production/1626160/0/0/1/0430300007.html       "Digikey: Molex Micro Fit 3.0 Connectors"
 
 <!-- PSU -->
 [bom_lrs350]:           https://www.amazon.com/MEAN-WELL-LRS-350-24-Printer-Industrial/dp/B07VRK86SP             "Amazon: Mean Well LRS-350-24"
@@ -25,12 +29,17 @@
 [bom_btt_skr_e3_mini]:  https://www.amazon.com/BIGTREETECH-Upgraded-Motherboard-Integrated-Compatible/dp/B09LH727MT  "Amazon: BIGTREETECH SKR E3 Mini"
 [bom_btt_octopus]:      https://www.amazon.com/BIGTREETECH-Motherboard-Compatible-Firmware-Raspberry/dp/B094NPRYDP   "Amazon: BIGTREETECH Octopus"
 [bom_creality_4x]:      https://www.amazon.com/Official-Creality-3D-Upgraded-Motherboard/dp/B09NMJMPN1               "Amazon: Creality 4.2.7"
-
+[bom_btt_manta_m8p]:    https://www.amazon.com/BIGTREETECH-Integrated-Motherboard-Firmware-Compatible/dp/B0B7W53JSY  "Amazon: BIGTREETECH Manta M8P"
 
 <!-- SoC CPUs -->
+[bom_rpi_3b_plus]:      https://www.adafruit.com/product/3055                                                    "Adafruit: Raspberry Pi 3B+"
+[bom_rpi_4b]:           https://www.adafruit.com/product/4295                                                    "Adafruit: Raspberry Pi 4B 1GB"
 
 <!-- Displays -->
-[bom_btt_tft35_e3]:    https://www.amazon.com/BIGTREETECH-TFT35-E3-V3-0-1-Motherboard/dp/B08182XHZZ             "Amazon: BIGTREETECH TFT35 E3 v3.0.1"
+[bom_btt_tft35_e3]:    https://www.amazon.com/BIGTREETECH-TFT35-E3-V3-0-1-Motherboard/dp/B08182XHZZ              "Amazon: BIGTREETECH TFT35 E3 v3.0.1"
+[bom_generic_12864]:   https://www.amazon.com/CHPOWER-Display-Screen-Creality-Printers/dp/B07DL3ZBD7             "Amazon: Generic 128x64 Display"
+[bom_mini_12864]:      https://www.amazon.com/FYSETC-Controller-Supports-Accessories-RGB-Backlight/dp/B08R9ZH7S2 "Amazon: FYSETC Mini12864 v2.1 Display"
+[bom_btt_tft35]:       https://www.amazon.com/BIGTREETECH-Graphic-Display-Controller-Printer/dp/B07VWF4W3J       "Amazon: BIGTREETECH TFT35 V3"
 
 <!-- Lower Bay -->
 <!--     Bucks -->
