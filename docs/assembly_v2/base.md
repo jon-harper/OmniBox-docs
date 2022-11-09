@@ -9,16 +9,26 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 
 ## PSU Tray
 
-??? note "Video Overview"
+??? info "Video Overview"
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/psu.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 
-| Parts                     | Qty | Note                            |
-|---------------------------|-----|---------------------------------|
-| M4 x 6mm machine screws   | 4   | No longer than 8mm.             |
-| Compatible power supply   | 1   | Illustrated: Mean Well LRS-350-24 |
-| :material-alpha-t-box: :material-alpha-p-box-outline: PSU Tray  | 1   | :material-printer-3d-nozzle: Printed, 2 files. |
+=== "As Illustrated"
+
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M4 x 6mm machine screws   | 4   | No longer than 8mm.             |
+    | Mean Well LRS-350-24      | 1   |                                 |
+    | [:material-alpha-t-box: :material-alpha-p-box-outline: PSU Tray][git_psu_lrs350]  | 1   | :material-printer-3d-nozzle: Printed, 2 files. |
+
+=== "Generic"
+
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M4 x 6mm machine screws   | 4-8 | No longer than 8mm.             |
+    | Compatible power supply   | 1   |  |
+    | :material-alpha-t-box: :material-alpha-p-box-outline: PSU Tray  | 1   | :material-printer-3d-nozzle: Printed, 2 files. |
 
 ### Directions
 
@@ -53,20 +63,31 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 
 ## Prepare the Base
 
-??? note "Video Overview"
+??? info "Video Overview"
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/base_prep.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 
-| Parts                     | Qty | Note                            |
-|---------------------------|-----|---------------------------------|
-| M3 x 8mm machine screws   | 2   |                                 |
-| M3 x 16mm machine screws  | 4   | Four per fan.                   |
-| 40mm x 10mm axial fan     | 0-3 | Optional, up to three.          |
-| SPST toggle switch        | 1   |                                 |
-| IEC C14 socket with fuse  | 1   |                                 |
-| :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-f-box-outline: Base - Front | 1   | :material-printer-3d-nozzle: Printed |
-| :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-r-box-outline: Base - Rear  | 1   | :material-printer-3d-nozzle: Printed |
+=== "As Illustrated"
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M3 x 8mm machine screws   | 2   |                                 |
+    | M3 x 16mm machine screws  | 4   | Four per fan.                   |
+    | 40mm x 10mm axial fan     | 1   | Optional, up to three.          |
+    | SPST toggle switch        | 1   |                                 |
+    | IEC C14 socket with fuse  | 1   |                                 |
+    | :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-f-box-outline: Base - Front | 1   | :material-printer-3d-nozzle: Printed |
+    | :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-r-box-outline: Base - Rear  | 1   | :material-printer-3d-nozzle: Printed |
+
+=== "Generic"
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M3 x 8mm machine screws   | 2   |                                 |
+    | SPST toggle switch        | 1   |                                 |
+    | IEC C14 socket with fuse  | 1   |                                 |
+    | :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-f-box-outline: Base - Front | 1   | :material-printer-3d-nozzle: Printed |
+    | :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-r-box-outline: Base - Rear  | 1   | :material-printer-3d-nozzle: Printed |
+
 
 !!! note
     The [unified base][git_base_unified] replaces both the front and rear bases and requires no additional parts.
@@ -79,7 +100,9 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 </figure>
 
 !!! note
-    The front vents mount up to three fans. It is up to you how many fans to use; in this example we will use one (1). Repeat the next two (2) steps for any additional fans.
+    The front vents mount up to three fans. It is up to you how many fans to use; in this example we will use one (1). 
+    
+    Repeat the next two (2) steps for any additional fans.
 
 <figure markdown>
   [![illustration][base_prep2]{width="480"}][base_prep2]
@@ -87,7 +110,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 </figure>
 
 !!! note
-    On most fans, the direction of airflow is towards the sticker on the motor. In this case, the sticker should face away from the vent.
+    The direction of airflow for most fans is towards the sticker on the motor. In this case, the sticker should face away from the vent.
 
 !!! caution
     Once the main body is installed, the fan will press directly against the floor. If the fan wiring passes *upwards* through a strain relief notch in the fan case, the wiring will become trapped between the fan and case body. Either turn the fan 90 degrees or the remove the wiring from the strain relief notch.
@@ -113,7 +136,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 
 ## Combine Base and PSU
 
-??? note "Video Overview"
+??? info "Video Overview"
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/base.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials

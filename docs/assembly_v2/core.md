@@ -9,7 +9,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 
 ## Attach the :material-alpha-c-box: :material-alpha-m-box-outline: Main Body
 
-??? note "Video Overview"
+??? info "Video Overview"
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/main_floor.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -17,8 +17,8 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 | Parts                        | Qty | Note                            |
 |------------------------------|-----|---------------------------------|
 | #6 x 3/4" sharp point screws | 8   |                                 |
-| :material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-f-box-outline: Main Body - Front | 1   | :material-printer-3d-nozzle: Printed |
-| :material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-r-box-outline: Main Body - Rear  | 1   | :material-printer-3d-nozzle: Printed |
+| [:material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-f-box-outline: Main Body - Front][git_main_body_front] | 1   | :material-printer-3d-nozzle: Printed |
+| [:material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-r-box-outline: Main Body - Rear][git_main_body_rear]  | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
 
@@ -55,7 +55,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 
 ## Secure and Align the Center
 
-??? note "Video Overview"
+??? info "Video Overview"
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/main_center.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -92,7 +92,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 
 ## Add Fans
 
-??? note "Video Overview"
+??? info "Video Overview"
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/fans.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -134,7 +134,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 
 ## Attach Crossbar
 
-??? note "Video Overview"
+??? info "Video Overview"
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/crossbar.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials 
