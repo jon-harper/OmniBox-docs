@@ -38,11 +38,11 @@ These parts are common to all case builds. See below for additional requirements
 !!! note
     To substitute #6 x 3/4" with Metric screws, use M3 x 16mm or M3 x 20mm. Equivalent length machine screws can also be used if sharp point screws are unavailable.
 
-## :material-alpha-c-box: Core Configurations with Fans
+## Core Configurations with Fans
 
-Externally mounted fans require a printed [:material-alpha-f-box: :material-alpha-c-box-outline: fan cage][git_fans] that matches the size of the fan. These are specified below.
+Externally mounted fans require a printed [:material-git: fan cage][git_fans] that matches the size of the fan. These are specified below.
 
-### :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-f-box-outline: Base - Front
+### Base - Front
 
 The base can mount up to three concealed 40mm fans in the intakes. The following are needed to mount each fan:
 
@@ -51,7 +51,7 @@ The base can mount up to three concealed 40mm fans in the intakes. The following
 | [:material-cart: 40x40x10mm axial fan][bom_4010]  | 1   | ea  |                                                          |
 | M3 x 16mm machine screws          | 4   | ea	| Some fans have recesses that instead use 10-12mm screws. |
 
-### :material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-f-box-outline: Main Body - Front
+### Main Body - Front
 
 There are two versions of the front main body.
 
@@ -76,9 +76,10 @@ There are two versions of the front main body.
     |-----------------------------------|-----|-----|----------------------------------------------------------|
     | [:material-cart: 60x60x15mm axial fan][bom_6015] | 1   | ea  | May also use 20mm or 25mm thick fans.     |
     | M4 x 25mm machine screws          | 4   | ea  | Add 10mm to fan depth for thicker fans.                  |
-    | [:material-alpha-f-box: :material-alpha-c-box-outline: Fan Cage][git_fans] | 1   | ea  | TPU gasket is optional.                                  |
+    | [:material-git: Fan Cage][git_fans] | 1   | ea  | :material-printer-3d-nozzle: Printed.                  |
+    | [:material-git: Fan Gasket][git_fans] | 1   | ea  | :material-printer-3d-nozzle: Printed TPU. Optional.  |
 
-### :material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-r-box-outline: Main Body - Rear
+### Main Body - Rear
 
 The rear body also has two versions: one with dual exhausts and one without any.
 
@@ -92,7 +93,8 @@ The rear body also has two versions: one with dual exhausts and one without any.
     |-----------------------------------|-----|-----|----------------------------------------------------------|
     | [:material-cart: 40x40x10mm axial fans][bom_4010] | 2   | ea  |                                          |
     | M3 x 20mm machine screws          | 8   | ea	| Use 30mm screws for 20mm fans (not recommended).         |
-    | [:material-alpha-f-box: :material-alpha-c-box-outline: Fan Cage][git_fans] | 2   | ea  | TPU gaskets are optional.                                |
+    | [:material-git: Fan Cage][git_fans] | 2   | ea  | :material-printer-3d-nozzle: Printed.                  |
+    | [:material-git: Fan Gasket][git_fans] | 2   | ea  | :material-printer-3d-nozzle: Printed TPU. Optional.  |
 
 === "No Exhaust Fans"
 
@@ -101,11 +103,11 @@ The rear body also has two versions: one with dual exhausts and one without any.
     There are no additional materials required for this version. 
 
     !!! important
-        This rear main body must be used with a :material-alpha-p-box: :material-alpha-r-box-outline: rear panel or :material-alpha-p-box: :material-alpha-l-box-outline: lid that provides an exhaust fan.
+        This rear main body must be used with a rear panel or lid that provides an exhaust fan.
 
-## :material-alpha-t-box: Tray and :material-alpha-p-box: Panel Configurations
+## Tray and Panel Configurations
 
-### :material-alpha-t-box: :material-alpha-p-box-outline: Power Supply Trays
+### Power Supply Trays
 
 Currently, two power supply models are supported. You will need one (1) of the following:
 
@@ -114,9 +116,9 @@ Currently, two power supply models are supported. You will need one (1) of the f
 | [:material-cart: Mean Well LRS-350][bom_lrs350]   | Most Creality Ender-series printers use the LRS-350-24.  |
 | [:material-cart: Mean Well RSP-500][bom_rsp500]   | **(Beta)** RSP-500-24 is used in the Ender 5 Plus.       |
 
-### :material-alpha-t-box: :material-alpha-c-box-outline: CPU Trays and :material-alpha-p-box: :material-alpha-d-box-outline: Display Panels
+### CPU Trays and Display Panels
 
-Most configurations use a display and many have an SBC, such as a Raspberry Pi. See the git [`Trays/CPU`][git_cpu] and [`Panels/Display`][git_display] folders for mounting information specific to your CPU tray and display panel.
+Most configurations use a display and many have an SBC, such as a Raspberry Pi. See the [:material-git:`Trays/CPU`][git_cpu] and [:material-git:`Panels/Display`][git_display] folders for mounting information specific to your CPU tray and display panel.
 
 ### Other Supported Parts
 
