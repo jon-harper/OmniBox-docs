@@ -5,47 +5,167 @@ authors: Jon Harper
 date: 2022-07-22
 ---
 
-:material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Trays mount below the MCU board and are used for a wide range of parts. Parts compatible with the lower bay are listed here. The [`Trays/Lower Bay`][git_lower_bay] git folder is organized with subfolders for each supported part. All variations based around that part are in the same folder.
+Lower Bay Trays mount below the MCU board and are used for a wide range of parts. Parts compatible with the lower bay are listed here. The [:material-git: `Trays/Lower Bay`][git_lower_bay] git folder is organized with subfolders for each supported part. All variations based around that part are in the same folder.
 
-There are two types of :material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Trays: Short and Long. A Long length tray covers the mount points of two Short trays and must be mounted from front to back of the case.
-
+There are two types of Lower Bay Trays: Short and Long. A Long length tray covers the mount points of two Short trays and must be mounted from front to back of the case.
 
 <figure markdown>
   [![img][img_lower_bay]{ width="480" }][img_lower_bay]
   <figcaption>Long trays fit as pictured on the left side or right. Short trays will also fit in an empty CPU bay.</figcaption>
 </figure>
 
+<!-- Template
+[:material-git: GitHub Folder][git_]{ .md-button }
+
+[:material-cart: Product Link][bom_]{ .md-button }
+
+[![product picture][img_]{width="200"}][img_]
+
+- Mounting:
+- Trays:
+ -->
+
 ## Buck Converters
 
 Long trays for buck converters often have a 40mm fan mount. This is particularly useful for 2A buck converters that are rated to 3A with cooling.
 
-| Description | Image | Product Link | Tray Sizes | Notes |
-|----|---|---|---|---|
-| Basic 2A LM2596 Buck Converter | ![img][img_basic_lm2596] | [:material-cart: Example][bom_basic_lm2596] | Short (single, dual), Long (single, dual) | |
-| "DROK" 2A LM2596 with LED       | ![img][img_led_lm2596] | [:material-cart: Example][bom_drok_2A] | Short (single), Long (single, dual) | Mounting holes: 60.5mm x 30.5mm |
-| "HiLetgo" 2A LM2596 with LED | ![img][img_hiletgo_2a] | [:material-cart: Example][bom_hiletgo_2A] | Short (single), Long (single, dual) | Mounting holes: 49.5mm x 27.5mm |
-| "DROK" 5A Buck with LED | ![img][img_drok_5a] | [:material-cart: Example][bom_drok_5A] | Long (single) | Mounting Holes: 63mm x 40.5mm |
-| "DROK" 3A Buck with LED | ![img][img_drok_3a] | [:material-cart: Example][bom_drok_3A] | Short (single) | Mounting Holes: 52.5mm x 28.75mm |
+### Basic 2A LM2596
+
+[:material-git: GitHub Folder][git_basic_lm2596]{ .md-button }
+
+[:material-cart: Product Link][bom_basic_lm2596]{ .md-button }
+
+[![product picture][img_basic_lm2596]{width="200"}][img_basic_lm2596]
+
+- Mounting: 2x M3
+- Trays:
+    - Short (single, dual)
+    - Long (single, dual)
+
+### DROK 2A LM2596 with LED
+
+[:material-git: GitHub Folder][git_drok_2A]{ .md-button }
+
+[:material-cart: Product Link][bom_drok_2A]{ .md-button }
+
+[![product picture][img_led_lm2596]{width="200"}][img_led_lm2596]
+
+- Mounting: 4x M3
+- Hole Pattern: 60.5mm x 30.5mm
+- Tray:
+    - Short (single)
+    - Long (single, dual)
+
+### HiLetGo 2A LM2596 with LED
+
+[:material-git: GitHub Folder][git_hiletgo_2A]{ .md-button }
+
+[:material-cart: Product Link][bom_hiletgo_2A]{ .md-button }
+
+[![product picture][img_hiletgo_2a]{width="200"}][img_hiletgo_2a]
+
+- Mounting: 4x M3
+- Hole Pattern: 49.5mm x 27.5mm 
+- Trays:
+    - Short (single)
+    - Long (single, dual)
+
+### DROK 3A LM2596 with LED
+
+[:material-git: GitHub Folder][git_drok_3A]{ .md-button }
+
+[:material-cart: Product Link][bom_drok_3A]{ .md-button }
+
+[![product picture][img_drok_3a]{width="200"}][img_drok_3a]
+
+- Mounting: 4x M3
+- Hole Pattern: 52.5mm x 28.75mm
+- Trays:
+    - Short (single)
+
+### DROK 5A Buck with LED
+
+[![product picture][img_drok_5a]{width="200"}][img_drok_5a]
+
+[:material-git: GitHub Folder][git_drok_5A]{ .md-button }
+
+[:material-cart: Product Link][bom_drok_5A]{ .md-button }
+
+Mounting: 4x M3, 63mm x 40.5mm
+
+Trays:
+
+- Long (single)
 
 ## MOSFETs
 
-| Description | Image | Product Link | Tray Sizes | Notes |
-|---|---|---|---|---|
-| Creality MOSFET | ![img][img_creality_mosfet] | [:material-cart: Example][bom_creality_mosfet] |  Short (single), Long (single) | |
 
-## Solid State Relays (SSRs)
+### Creality MOSFET 
 
-| Description | Image | Product Link | Tray Sizes | Notes |
-|---|---|---|---|---|
-| Fotek SSR-40 DA | ![img][img_fotek_ssr_40da] | [:material-cart: Example][bom_fotek_ssr_40da] |  Short (single), Long (single) | |
+[:material-git: GitHub Folder][git_creality_mosfet]{ .md-button }
+
+[:material-cart: Product Link][bom_creality_mosfet]{ .md-button }
+
+[![product picture][img_creality_mosfet]{width="200"}][img_creality_mosfet]
+
+- Mounting: 2x M3
+- Trays:
+    - Short (single), Long (single)
+
+## Solid State Relays
+
+### Fotek SSR-40 DA 
+
+[:material-git: GitHub Folder][git_fotek_ssr40da]{ .md-button }
+
+[:material-cart: Product Link][bom_fotek_ssr_40da]{ .md-button }
+
+[![product picture][img_fotek_ssr_40da]{width="200"}][img_fotek_ssr_40da]
+
+- Mounting: 2x M3
+- Trays:
+    - Short (single)
+    - Long (single)
 
 ## Other Products
 
-| Description | Image | Product Link | Tray Sizes | Notes |
-|---|---|---|---|---|
-| BIGTREETECH UPS 24V 1.0 | ![img][img_btt_ups_24v] | [:material-cart: Example][bom_btt_ups_24v] | Short (single) | |
-| Wago 221 Lever Nuts | ![img][img_wago_nuts] | [:material-cart: Example][bom_wago_nuts] |  Short, Long | 3 position & 5 position |
-| 4010/4020 fans | ![img][img_4010] | [:material-cart: Example][bom_4010] | Short | Also available on long trays for buck converters. |
+<!-- ### BIGTREETECH UPS 24V 1.0 
+
+[:material-git: GitHub Folder][git_]{ .md-button }
+
+[:material-cart: Product Link][bom_btt_ups_24v]{ .md-button }
+
+[![product picture][img_btt_ups_24v]{width="200"}][img_btt_ups_24v]
+
+- Mounting:
+- Trays:
+    - Short (single) -->
+
+### Wago 221 Lever Nuts 
+
+[:material-git: GitHub Folder][git_wago_221]{ .md-button }
+
+[:material-cart: Product Link][bom_wago_nuts]{ .md-button }
+
+[![product picture][img_wago_nuts]{width="200"}][img_wago_nuts]
+
+- Notes: 3 position & 5 position
+- Trays:
+    - Short, 4x 3 position
+    - Long, 4x 5 position
+    - Long, 4x 5 position, 2x 3 position
+
+### 4010/4020 Fans 
+
+[:material-git: GitHub Folder][git_tray_4010]{ .md-button }
+
+[:material-cart: Product Link][bom_4010]{ .md-button }
+
+[![product picture][img_4010]{width="200"}][img_4010]
+
+- Notes: Also available on long trays for buck converters.
+- Trays:
+    - Short (single)
 
 [img_lower_bay]: ../img/components/lower_bay.png
 [img_drok_3a]: ../img/parts/buck_3a_drok.jpg
