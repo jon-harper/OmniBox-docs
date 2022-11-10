@@ -1221,28 +1221,35 @@
 <p class="admonition-title">Tip</p>
 <p>Want to know more about OmniBox and what's next? Follow <a href="https://twitter.com/TheOmniBox" title="@TheOmniBox (Twitter)">@TheOmniBox on <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23Z"/></svg></span> Twitter</a></p>
 </div>
-<p>The current release is 0.9.9, released on 2022-11-??.</p>
+<p>The current release is 0.9.9-beta, released on 2022-11-??.</p>
 <h2 id="new-features">New Features</h2>
 <h3 id="major-new-features">Major New Features</h3>
 <ul>
-<li><strong>Base:</strong> <a href="https://github.com/jon-harper/OmniBox/issues/14">Issue #14</a>: Universal power supply mount</li>
-<li><strong>Main Body:</strong> Moved CPU bay from front main body to rear, added a second bay on opposite side.<ul>
-<li>Unused second bay is an additional "side panel"</li>
+<li><strong>Base:</strong> <a href="https://github.com/jon-harper/OmniBox/issues/14">Issue #14</a>: Universal power supply mount<ul>
+<li>Attaches to the base instead of main body.</li>
+<li>PSU slides in from underneath.</li>
+<li>Allows replacing the PSU without removing other components.</li>
+</ul>
+</li>
+<li><strong>Main Body</strong> Moved CPU bay from front main body to rear:<ul>
+<li>Added a second bay on opposite side.</li>
+<li>Unused second bay is an additional "side panel".</li>
 <li>Can be used to mount an extra 40mm fan, panel mounts, or leave covered with a blank plate.</li>
 </ul>
 </li>
-<li><strong>Main Body:</strong> Zip tie anchors added:<ul>
-<li>Six (6) added to crossbar</li>
-<li>Four (4) added to front main body (under MCU pillars)</li>
-<li>Fifteen (15) added to rear main body<ul>
-<li>Four (4) under MCU pillars</li>
-<li>Six (6) above MCU pillars</li>
-<li>Five (5) by PSU wiring cutout</li>
+<li><strong>Main Body</strong> Zip tie anchors added:<ul>
+<li>Six (6) added to crossbar.</li>
+<li>Four (4) added to front main body (under MCU pillars).</li>
+<li>Fifteen (15) added to rear main body:<ul>
+<li>Four (4) under MCU pillars.</li>
+<li>Six (6) above MCU pillars.</li>
+<li>Five (5) by PSU wiring cutout.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li><strong>(New) Bottom Panel:</strong> Removable panels for case underside.<ul>
+<li><strong>(New) Bottom Panel</strong> <ul>
+<li>Removable panels for case underside.</li>
 <li>Prevents finger-pokey by curious children and dust intrusion (see Completed Requests below).</li>
 <li>Adds feet to the case.</li>
 </ul>
@@ -1250,15 +1257,23 @@
 </ul>
 <h3 id="additional-improvements">Additional Improvements</h3>
 <ul>
-<li><strong>All:</strong> All core parts now have embossed version numbers to help with intermixing version numbers.</li>
-<li><strong>Main Body</strong> Redesigned intakes and modified exhaust mounts.<ul>
+<li><strong>Core</strong> <ul>
+<li>All core parts now have embossed version numbers to help with intermixing version numbers.</li>
+</ul>
+</li>
+<li><strong>Main Body</strong><ul>
+<li>Redesigned intakes and modified exhaust mounts.</li>
 <li>Easier to print.</li>
 <li>Made room at base for running wires through to external fans.</li>
 </ul>
 </li>
-<li><strong>Base:</strong> Added a third front air vent.</li>
-<li><strong>Base:</strong> All three front vents how have 40mm fan mounts.</li>
-<li><strong>CPU Trays:</strong> New template and tray design<ul>
+<li><strong>Base</strong> <ul>
+<li>Added a third front air vent.</li>
+<li>All three front vents how have 40mm fan mounts.</li>
+</ul>
+</li>
+<li><strong>CPU Trays</strong><ul>
+<li>New template and tray design</li>
 <li>Old trays still work.</li>
 <li>New tray is an easier print with fewer supports needed, can be printed in one of two orientations.</li>
 <li>New releases will only include new trays.</li>
@@ -1333,6 +1348,16 @@
 <td>Lower Bay</td>
 <td>Single and dual, short and long trays.</td>
 </tr>
+<tr>
+<td>92mm fans</td>
+<td>Rear panel, Lid</td>
+<td>25mm thickness only.</td>
+</tr>
+<tr>
+<td>120mm fans</td>
+<td>Lid</td>
+<td>25mm thickness only.</td>
+</tr>
 </tbody>
 </table>
 <h3 id="experimental-hardware-support">Experimental Hardware Support</h3>
@@ -1350,16 +1375,6 @@
 <td>Mean Well RSP-500 power supply</td>
 <td>PSU Tray</td>
 <td>For the Ender 5 Plus</td>
-</tr>
-<tr>
-<td>92mm fans</td>
-<td>Rear panel, Lid</td>
-<td>25mm thickness only.</td>
-</tr>
-<tr>
-<td>120mm fans</td>
-<td>Lid</td>
-<td>25mm thickness only.</td>
 </tr>
 <tr>
 <td>BIGTREETECH Manta M8P</td>
@@ -1409,7 +1424,7 @@
 </ul>
 </li>
 <li><a href="https://github.com/jon-harper/OmniBox/issues/37">Issue #37</a>: Documentation site is missing license page</li>
-<li>[Issue #51][]: Basic LM2596 mounting holes are incorrect</li>
+<li><a href="https://github.com/jon-harper/OmniBox/issues/51">Issue #51</a>: Basic LM2596 mounting holes are incorrect</li>
 </ul>
 <h2 id="documentation-repository">Documentation &amp; Repository</h2>
 <ul>
