@@ -5,7 +5,7 @@ authors: Jon Harper
 date: 2022-10-29
 ---
 
-We will start by assembling the Base and PSU Tray.
+Assembly of the case starts with the Base and PSU Tray.
 
 ## PSU Tray
 

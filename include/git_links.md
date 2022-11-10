@@ -102,7 +102,8 @@
 [git_tray_4010]:        https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/40mm%20Fan            "OmniBox GitHub: 40mm Fan Tray"
 [git_wago_221]:         https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/Wago%20Lever%20Nuts   "OmniBox GitHub: Wago 221 Lever Nuts Trays"
 [git_fotek_ssr40da]:    https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/Fotek%20SSR-40%20DA   "OmniBox GitHub: Fotek SSR-40 DA Tray"
-[git_creality_mosfet]:  https://github.com/jon-harper/OmniBox/tree/0.9.9-beta/Trays/Lower%20Bay/Creality%20MOSFET "OmniBox GitHub: Creality MOSFET Tray"
+[git_creality_mosfet]:  https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/Creality%20MOSFET      "OmniBox GitHub: Creality MOSFET Tray"
+[git_btt_ups_24v]:      https://github.com/jon-harper/OmniBox/tree/main/Trays/Lower%20Bay/BTT%20UPS%2024V%201.0 "OmniBox GitHub: BIGTREETECH UPS 24V 1.0"
 
 <!--     /PSUs -->
 [git_psu]:              https://github.com/jon-harper/OmniBox/tree/main/Trays/PSU/                              "OmniBox GitHub: Power Supplies (PSUs)"

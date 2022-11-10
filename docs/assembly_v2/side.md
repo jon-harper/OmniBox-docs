@@ -19,12 +19,12 @@ date: 2022-10-30
                                                             
 <figure markdown>
   [![illustration][side1]{width="480"}][side1]
-  <figcaption>1. TODO</figcaption>
+  <figcaption>1. Place the side panel against the case body.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][side2]{width="480"}][side2]
-  <figcaption>2. TODO</figcaption>
+  <figcaption>2. Fasten with four (4) M3 screws at least 8mm long.</figcaption>
 </figure>
 
 

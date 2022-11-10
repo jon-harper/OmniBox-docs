@@ -66,9 +66,9 @@ This estimate assumes that you:
 
 This estimate does *not* include:
 
-- Time needed to run and attach wiring;
-- Power up and configuration tests; and
-- Time needed for heat set insert (HSI) installation, if applicable.
+- Heat set insert (HSI) installation, if applicable;
+- Time needed for wiring; and
+- Power up/initial tests.
 
 ### Configurations
 
@@ -80,7 +80,7 @@ Areas where the Core variants may differ from instructions are specifically call
 
 ## Techniques
 
-Assembly relies on a few concepts that are reused through this guide.
+Assembly relies on a few concepts used throughout this guide.
 
 ### Fastening Screws
 
@@ -95,7 +95,7 @@ For example, lower bay trays attach to the main body with M3 screws. The trays h
 
 ### Example Image Orientation
 
-Images for assembly are provided from a limited set of overhead/angled perspectives. The component (or components) used in the current step is highlighted in blue.
+Images for assembly are provided from isometric (angled and over-or-under) perspectives. The component (or components) used in the current step is highlighted in blue.
 
 ### Mounting Fans
 
@@ -116,3 +116,4 @@ Note that fans 60mm and smaller use M3 screws; larger fans require M4 screws.
 [lid]:      lid.md          "Assembly: Lid(s)"
 [bottom]:   bottom.md       "Assembly: Bottom Panels"
 [checklist]: ../printing.md#printed-component-checklist "Printed Component Checklist"
+[parts]: ../support/index.md "Supported Parts List"

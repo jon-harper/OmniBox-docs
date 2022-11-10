@@ -21,7 +21,7 @@ date: 2022-11-03
     | [:material-git: Front Panel with Micro SD Extension][git_front_sd_no_usb] | 1  | :material-printer-3d-nozzle: Printed |
     | [:material-cart: LANMU Micro SD Card Extension][bom_lanmu_micro_sd] | 1   | |
 
-=== "Basic"
+=== "Generic"
 
     | Parts                     | Qty | Note                            |
     |---------------------------|-----|---------------------------------|

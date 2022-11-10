@@ -14,11 +14,24 @@ date: 2022-10-30
 
 ### Materials
 
-| Parts                     | Qty | Note                            |
-|---------------------------|-----|---------------------------------|
-| M3 x 6mm machine screws   | 8   |                                 |
-| Compatible hardware       | 2   | Illustrated: Basic LM2596 Buck Converter |
-| Long Lower Bay Tray | 1   | :material-printer-3d-nozzle: Printed |
+=== "As Illustrated"
+
+    | Parts                       | Qty | Note                            |
+    |-----------------------------|-----|---------------------------------|
+    | M3 x 6mm machine screws     | 8   |                                 |
+    | Basic LM2596 Buck Converter | 2   |  |
+    | [:material-git: Long Lower Bay Tray][git_basic_lm2596] | 1   | :material-printer-3d-nozzle: Printed |
+
+
+=== "Generic"
+
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M3 x 6mm machine screws   | 4   |                                 |
+    | Compatible hardware       | 1   |                                 |
+    | Long Lower Bay Tray       | 1   | :material-printer-3d-nozzle: Printed  |
+
+    Only screws for mounting the tray are specified in the generic materials list.
 
 ### Directions
                                                             
@@ -46,11 +59,24 @@ date: 2022-10-30
 
 ### Materials
 
-| Parts                     | Qty | Note                            |
-|---------------------------|-----|---------------------------------|
-| M3 x 6mm machine screws   | 8   |                                 |
-| Compatible hardware       | 1   | Illustrated: BIGTREETECH UPS 24V 1.0 |
-| Short Lower Bay Tray | 1   | :material-printer-3d-nozzle: Printed |
+
+=== "As Illustrated"
+    
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M3 x 6mm machine screws   | 8   |                                 |
+    | BIGTREETECH UPS 24V 1.0   | 1   |                                 |
+    | [:material-git: Short Lower Bay Tray][git_btt_ups_24v] | 1   | :material-printer-3d-nozzle: Printed |
+
+=== "Generic"
+
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M3 x 6mm machine screws   | 4   |                                 |
+    | Compatible hardware       | 1   |                                 |
+    | Short Lower Bay Tray | 1   | :material-printer-3d-nozzle: Printed |
+
+    Only screws for mounting the tray are specified in the generic materials list.
 
 ### Directions
                                                             

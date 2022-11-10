@@ -5,6 +5,13 @@ authors: Jon Harper
 date: 2022-11-01
 ---
 
+The front of the Main Body has eight (8) inserts, with four (4) canted at an angle for the display.
+
+!!! note
+    The display screen is at a **50 degree** angle, not 45. The [:material-git: practice block][git_hsi_practice] has six holes at this angle for practice purposes.
+
+    It is important get the insert flush with the display surface.
+
 
 ??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/hsi_front.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
@@ -20,22 +27,22 @@ date: 2022-11-01
                                                             
 <figure markdown>
   [![illustration][hsi_front1]{width="480"}][hsi_front1]
-  <figcaption>1. TODO</figcaption>
+  <figcaption>1. Using four (4) inserts, place one in each of the two (2) lid holes and two (2) MCU tray holes.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][hsi_front2]{width="480"}][hsi_front2]
-  <figcaption>2. TODO</figcaption>
+  <figcaption>2. Use a soldering iron the set the inserts.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][hsi_front3]{width="480"}][hsi_front3]
-  <figcaption>3. TODO</figcaption>
+  <figcaption>3. Turn the front body so that the four display mounting holes face you. Place inserts in each hole.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][hsi_front4]{width="480"}][hsi_front4]
-  <figcaption>4. TODO</figcaption>
+  <figcaption>4. Carefully set the inserts, checking that the inserts end flush with the display screen mount.</figcaption>
 </figure>
 
 

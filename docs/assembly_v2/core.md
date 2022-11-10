@@ -68,12 +68,12 @@ So far we have assembled the Base. Next we'll add the Main Body. This is made of
 
 <figure markdown>
   [![illustration][center1]{width="480"}][center1]
-  <figcaption>Insert an M3 x 8mm screw in the top hole on one side of the Rear Main Body and fasten to the mating hole on the Front Main Body. Screws must be inserted *back to front*.</figcaption>
+  <figcaption>Insert an M3 x 8mm screw in the top hole on one side of the Rear Main Body. Fasten it to the mating hole on the Front Main Body.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][center2]{width="480"}][center2]
-  <figcaption>Repeat with the top hole on the other side of the Rear Main Body.</figcaption>
+  <figcaption>Repeat with the top hole on the other side of the Main Body, again fastening from back to front.</figcaption>
 </figure>
 
 <figure markdown>
@@ -109,22 +109,22 @@ So far we have assembled the Base. Next we'll add the Main Body. This is made of
 
 <figure markdown>
   [![illustration][internal_fan1]{width="480"}][internal_fan1]
-  <figcaption>TODO</figcaption>
+  <figcaption>1. Place a 40mm fan in the Front Main Body intake. Most users will want the wiring to trail off to the right.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][internal_fan2]{width="480"}][internal_fan2]
-  <figcaption>TODO</figcaption>
+  <figcaption>2. Attach with M3 x 16mm screws. If using a fan that has counterbored holes, shorter screws will be needed (10-12mm).</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][external_fan1]{width="480"}][external_fan1]
-  <figcaption>TODO</figcaption>
+  <figcaption>3. Set a 40mm fan in the external fan cage. If using a TPU gasket, cover the fan with the gasket. You may wish to cut a notch in the gasket for the fan wiring.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][external_fan2]{width="480"}][external_fan2]
-  <figcaption>TODO</figcaption>
+  <figcaption>4. Attach the fan with M3 x 20mm screws. Repeat steps 3 and 4 for the second external fan.</figcaption>
 </figure>
 
 
