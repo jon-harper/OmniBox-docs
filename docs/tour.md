@@ -97,11 +97,11 @@ The front main body comes in two variations to choose from:
 
 === "Internal 40mm Fan"
 
-    [![front main body with internal fan][img_front_40]{ width="480" }][img_front_40]
+    [![front main body with internal fan][img_front_40]{ width="360" }][img_front_40]
 
 === "External 60mm Fan"
 
-    [![front main body with external fan][img_front_60]{ width="480" }][img_front_60]
+    [![front main body with external fan][img_front_60]{ width="360" }][img_front_60]
 
 The version with a 60mm external fan additional requires the appropriate [fan cage][fans]. Optionally, a TPU gasket can also be used with the fan cage.
 
@@ -112,20 +112,20 @@ The version with a 60mm external fan additional requires the appropriate [fan ca
 
 The rear main body comes in two variations:
 
-=== "No Fan Mounts"
-
-    [![rear main body without fan mounts][img_rear_none]{ width="360" }][img_rear_none]
-
 === "Dual 40mm Fans"
 
     [![rear main body with dual fans][img_rear_dual]{ width="360" }][img_rear_dual]
+
+=== "No Fan Mounts"
+
+    [![rear main body without fan mounts][img_rear_none]{ width="360" }][img_rear_none]
 
 For the dual 40mm fan version, you will also need to print [40mm fan cages][fans] and (optionally) TPU gaskets.
 
 - [:material-git: GitHub Folder][git_main_body_rear]
 - This component is available with heat set inserts.
 
-## Trays and Power Supply
+## Trays
 
 Trays are used for mounting parts internally. There are four (4) types of trays:
 
@@ -134,18 +134,18 @@ Trays are used for mounting parts internally. There are four (4) types of trays:
   <figcaption>The four types of trays in red.</figcaption>
 </figure>
 
-- Power supply mount
+- Power supply tray (PSU tray)
 - MCU tray
 - Lower bay tray
 - CPU tray
 
 Tray templates are available in both `STEP` and Fusion 360 format to add support for new products.
 
-### Power Supply Mount
+### PSU Tray
 
-[![power supply mount][img_psu]{ width="480" }][img_psu]
+[![power supply tray][img_psu]{ width="480" }][img_psu]
 
-Power supply mounts slide up from underneath the case. Currently two power supplies are supported; a template is availabe to add support for more.
+Power supply (PSU) trays slide up from underneath the case. Currently two power supplies are supported; a template is availabe to add support for more.
 
 Large (tall) power supplies require the use of a [base extension shim](#base-extensions).
 

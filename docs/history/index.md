@@ -8,36 +8,45 @@ date: 2022-10-09
 !!! tip
     Want to know more about OmniBox and what's next? Follow [@TheOmniBox on :material-twitter: Twitter][twitter]
 
-The current release is 0.9.9, released on 2022-11-??.
+The current release is 0.9.9-beta, released on 2022-11-??.
 
 ## New Features
 
 ### Major New Features
 
 - **Base:** [Issue #14][1]: Universal power supply mount
-- **Main Body:** Moved CPU bay from front main body to rear, added a second bay on opposite side.
-    - Unused second bay is an additional "side panel"
+    - Attaches to the base instead of main body.
+    - PSU slides in from underneath.
+    - Allows replacing the PSU without removing other components.
+- **Main Body** Moved CPU bay from front main body to rear:
+    - Added a second bay on opposite side.
+    - Unused second bay is an additional "side panel".
     - Can be used to mount an extra 40mm fan, panel mounts, or leave covered with a blank plate.
-- **Main Body:** Zip tie anchors added:
-    - Six (6) added to crossbar
-    - Four (4) added to front main body (under MCU pillars)
-    - Fifteen (15) added to rear main body
-        - Four (4) under MCU pillars
-        - Six (6) above MCU pillars
-        - Five (5) by PSU wiring cutout
-- **(New) Bottom Panel:** Removable panels for case underside.
+- **Main Body** Zip tie anchors added:
+    - Six (6) added to crossbar.
+    - Four (4) added to front main body (under MCU pillars).
+    - Fifteen (15) added to rear main body:
+        - Four (4) under MCU pillars.
+        - Six (6) above MCU pillars.
+        - Five (5) by PSU wiring cutout.
+- **(New) Bottom Panel** 
+    - Removable panels for case underside.
     - Prevents finger-pokey by curious children and dust intrusion (see Completed Requests below).
     - Adds feet to the case.
 
 ### Additional Improvements
 
-- **All:** All core parts now have embossed version numbers to help with intermixing version numbers.
-- **Main Body** Redesigned intakes and modified exhaust mounts.
+- **Core** 
+    - All core parts now have embossed version numbers to help with intermixing version numbers.
+- **Main Body**
+    - Redesigned intakes and modified exhaust mounts.
     - Easier to print.
     - Made room at base for running wires through to external fans.
-- **Base:** Added a third front air vent.
-- **Base:** All three front vents how have 40mm fan mounts.
-- **CPU Trays:** New template and tray design
+- **Base** 
+    - Added a third front air vent.
+    - All three front vents how have 40mm fan mounts.
+- **CPU Trays**
+    - New template and tray design
     - Old trays still work.
     - New tray is an easier print with fewer supports needed, can be printed in one of two orientations.
     - New releases will only include new trays.
@@ -61,6 +70,8 @@ The current release is 0.9.9, released on 2022-11-??.
 | Wago 221 Lever Nuts               | Lower Bay         | 3-position and 5-position |
 | Neopixel (WS2812B) LEDs           | Front panel       | Backing piece for attaching lights behind front vents. |
 | DROK 3A LM2596 Buck Converter     | Lower Bay         | Single and dual, short and long trays. |
+| 92mm fans                         | Rear panel, Lid   | 25mm thickness only.  |
+| 120mm fans                        | Lid               | 25mm thickness only.  |
 
 ### Experimental Hardware Support
 
@@ -69,8 +80,6 @@ These parts still need to be tested for fit and any other issues.
 | Hardware                          | Mount Location(s) | Notes                 |
 |-----------------------------------|-------------------|-----------------------|
 | Mean Well RSP-500 power supply    | PSU Tray          | For the Ender 5 Plus  |
-| 92mm fans                         | Rear panel, Lid   | 25mm thickness only.  |
-| 120mm fans                        | Lid               | 25mm thickness only.  |
 | BIGTREETECH Manta M8P             | MCU Tray          |                       |
 | BIGTREETECH 5" TFT                | Display Panel     |                       |
 | BIGTREETECH UPS 24V 1.0           | Lower Bay         | Short tray only.      |
@@ -90,7 +99,7 @@ These parts still need to be tested for fit and any other issues.
 - [Issue #39][5]: Display screen partially blocks two front main body/base screws
     - Added cutout for access.
 - [Issue #37][6]: Documentation site is missing license page
-- [Issue #51][]: Basic LM2596 mounting holes are incorrect
+- [Issue #51][7]: Basic LM2596 mounting holes are incorrect
 
 
 ## Documentation & Repository
@@ -160,6 +169,7 @@ These parts still need to be tested for fit and any other issues.
 [4]: https://github.com/jon-harper/OmniBox/issues/33
 [5]: https://github.com/jon-harper/OmniBox/issues/39
 [6]: https://github.com/jon-harper/OmniBox/issues/37
+[7]: https://github.com/jon-harper/OmniBox/issues/51
 
 [11]: ../img/gallery_0.9.9/render1.png
 [12]: ../img/gallery_0.9.9/render2.png
