@@ -7,6 +7,30 @@ repo_name: jon-harper/OmniBox
 edit_uri: ""
 copyright: Copyright &copy; 2022 Jonathan Harper
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - abbr
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets:
+      auto_append: 
+        - include/git_links.md
+        - include/bom_links.md
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - social
+    
+
 theme:
   name: material
   logo: img/logo.png
@@ -32,25 +56,7 @@ theme:
         icon: material/lightbulb-off-outline
         name: Switch to light mode
 
-markdown_extensions:
-  - admonition
-  - attr_list
-  - abbr
-  - md_in_html
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.superfences
-  - pymdownx.details
-  - pymdownx.snippets:
-      auto_append: 
-        - include/git_links.md
-        - include/bom_links.md
-  - pymdownx.tabbed:
-      alternate_style: true 
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 extra:
   social:
