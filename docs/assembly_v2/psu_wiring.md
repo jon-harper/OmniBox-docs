@@ -10,7 +10,7 @@ At this point, it is a good idea to wire the power supply, power switch, and IEC
 !!! caution
     In this section you will need to crimp closed barrel connectors. If you have never performed crimping before, it is strongly recommended that you practice before proceeding.
 
-    Cablecraft has an excellent, [in-depth guide][crimp_guide] to crimping common terminal types.
+    Cablecraft has an excellent, [:material-book-open-variant: in-depth guide][crimp_guide] to crimping common terminal types.
 
 <figure markdown>
   [![illustration][intro]{width="480"}][intro]

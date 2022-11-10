@@ -8,7 +8,7 @@ date: 2022-10-30
 ## MCU Installation
 
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/mcu.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -20,7 +20,7 @@ date: 2022-10-30
     | M3 x 6mm machine screws   | 4   | Some boards may use 5 or more.  |
     | M3 x 8mm machine screws   | 4   | May substitute 10mm or 12mm.    |
     | Compatible MCU            | 1   | Illustrated: BIGTREETECH SKR 2  |
-    | :material-alpha-t-box: :material-alpha-m-box-outline: MCU Tray | 1   | :material-printer-3d-nozzle: Printed |
+    | MCU Tray                  | 1   | :material-printer-3d-nozzle: Printed |
 
 === "HSI"
 
@@ -29,7 +29,7 @@ date: 2022-10-30
     | M3 x 6mm machine screws   | 4   | Some boards may use 5 or more.  |
     | M3 x 8mm machine screws   | 4   | May substitute 6mm.             |
     | Compatible MCU            | 1   | Illustrated: BIGTREETECH SKR 2  |
-    | :material-alpha-t-box: :material-alpha-m-box-outline: MCU Tray | 1   | :material-printer-3d-nozzle: Printed |
+    | MCU Tray                  | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
                                                             

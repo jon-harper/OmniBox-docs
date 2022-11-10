@@ -10,14 +10,14 @@ This is an overview of components supported by OmniBox. The linked git folders s
 !!! tip
     Looking for a part that isn't listed? [Open an issue!][git_issues]
 
-## :material-alpha-t-box: Trays
+## Trays
 
 <figure markdown>
   [![the three types of trays][img_trays]{ width="640" }][img_trays]
   <figcaption>The four types of trays in red.</figcaption>
 </figure>
 
-### :material-alpha-t-box: :material-alpha-p-box-outline:  Power Supplies
+### Power Supplies
 
 OmniBox supports the Mean Well LRS-350 and clones (e.g., Landy-branded). There is preliminary support for the Mean Well RSP-500.
 
@@ -28,30 +28,30 @@ A template is available to add additional support.
 | [Mean Well LRS-350][git_psu_lrs350] | Most Creality Ender-series printers use the LRS-350-24.  |
 | [Mean Well RSP-500][git_psu_rsp500] | **(Preliminary)** RSP-500-24 is used in the Ender 5 Plus.|
 
-### Other :material-alpha-t-box: Trays
+### Other Trays
 
-- [MCU Boards][mcu] for :material-alpha-t-box: :material-alpha-m-box-outline: MCU Trays
-- [SoC CPUs][cpu] for :material-alpha-t-box: :material-alpha-c-box-outline: CPU Trays
-- [Lower Bay Components][lower_bay] lists parts mountable on a :material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Tray
+- [MCU Boards][mcu] for MCU Trays
+- [SoC CPUs][cpu] for CPU Trays
+- [Lower Bay Components][lower_bay] lists parts mountable on a Lower Bay Tray
 
-## :material-alpha-p-box: Panels
+## Panels
 
 <figure markdown>
   [![the three types of trays][img_panels]{ width="640" }][img_panels]
   <figcaption>Panels cover the outside of the case.</figcaption>
 </figure>
 
-### :material-alpha-p-box: :material-alpha-d-box-outline: Display Screen Panels
+### Display Screen Panels
 
 [Display Panels][displays] are used for LCD displays, including Raspberry Pi TFTs.
 
-### :material-alpha-p-box: :material-alpha-f-box-outline: Front, :material-alpha-p-box: :material-alpha-s-box-outline: Side, and :material-alpha-p-box: :material-alpha-r-box-outline: Rear Panels
+### Front, Side, and Rear Panels
 
 These panels are typically used for [panel mounted connectors and extensions][panel_mounts] and mounting [fans][fans].
 
 Generic rear panels are available with cutouts to pass wiring directly without using connectors.
 
-## :material-alpha-f-box: Fans
+## Fans
 
 An assortment of fans are supported and include cages and optional TPU shims. See the [Fans][fans] page for a full list.
 

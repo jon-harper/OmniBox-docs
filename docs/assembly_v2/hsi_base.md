@@ -5,15 +5,15 @@ authors: Jon Harper
 date: 2022-10-30
 ---
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/hsi_base.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ## Materials
 
-| Parts                             | Qty | Note                            |
-|-----------------------------------|-----|---------------------------------|
-| Heat set inserts, M3, 4.5x5.7mm   | 2   |                                 |
-| :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-b-box-outline: Base - Rear | 1   | :material-printer-3d-nozzle: Printed |
+| Parts                                       | Qty | Note                            |
+|---------------------------------------------|-----|---------------------------------|
+| Heat set inserts, M3, 4.5x5.7mm             | 2   |                                 |
+| [:material-git: Base - Rear][git_base_rear] | 1   | :material-printer-3d-nozzle: Printed |
 
 ## Directions
                                                             

@@ -21,9 +21,9 @@ Micro-controller unit (MCU) board are mounted on MCU Trays. These parts are in t
 <!-- Template 
 [![product picture][img_]{width="200"}][img_]
 
-[:material-git: GitHub Folder][git_]
+[:material-git: GitHub Folder][git_]{ .md-button }
 
-[:material-cart: Product Link][bom_]
+[:material-cart: Product Link][bom_]{ .md-button }
 -->
 
 ## BIGTREETECH
@@ -32,37 +32,49 @@ Micro-controller unit (MCU) board are mounted on MCU Trays. These parts are in t
 
 #### SKR 1.3 - 2.0
 
+[:material-git: GitHub Folder][git_btt_skr]{ .md-button }
+
+[:material-cart: Product Link][bom_btt_skr_2]{ .md-button }
+
 [![product picture][img_btt_skr_2]{width="200"}][img_btt_skr_2]
 
-[:material-git: GitHub Folder][git_btt_skr]
-
-[:material-cart: Product Link][bom_btt_skr_2]
+- Mounting: 4x M3
+- Notes: SKR 3 and SKR 3 EZ are incompatible. See below.
 
 #### SKR 3
 
+[:material-git: GitHub Folder][git_btt_skr_3]{ .md-button }
+
+[:material-cart: Product Link][bom_btt_skr_3]{ .md-button }
+
 [![product picture][img_btt_skr_3]{width="200"}][img_btt_skr_3]
 
-[:material-git: GitHub Folder][git_btt_skr_3]
-
-[:material-cart: Product Link][bom_btt_skr_3]
+- Mounting: 4x M3
+- Notes: SKR 3 EZ and earlier SKR models are incompatible.
 
 #### SKR 3 EZ
 
+[:material-git: GitHub Folder][git_btt_skr_3_ez]{ .md-button }
+
+[:material-cart: Product Link][bom_btt_skr_3_ez]{ .md-button }
+
 [![product picture][img_btt_skr_3_ez]{width="200"}][img_btt_skr_3_ez]
 
-[:material-git: GitHub Folder][git_btt_skr_3_ez]
-
-[:material-cart: Product Link][bom_btt_skr_3_ez]
+- Mounting: 4x M3
+- Notes: Not compatible with other SKR trays.
 
 ### SKR 3 E3 Series
 
 All versions of the SKR E3 series are compatible with one tray, uncluding the Mini, Turbo, and RRF versions.
 
+[:material-git: GitHub Folder][git_btt_skr_e3]{ .md-button }
+
+[:material-cart: Product Link][bom_btt_skr_e3_mini]{ .md-button }
+
 [![skr mini e3 v3][img_btt_skr_mini_e3_v3]{width="200"}][img_btt_skr_mini_e3_v3]
 
-[:material-git: GitHub Folder][git_btt_skr_e3]
-
-[:material-cart: Product Link][bom_btt_skr_e3_mini]
+- Mounting: 4-5x M3
+- Notes: Same hole pattern as creality boards.
 
 ### Manta Series
 
@@ -70,22 +82,26 @@ The Manta M4P is not currently supported, but may be added in a future release.
 
 #### Manta M8P
 
+[:material-git: GitHub Folder][git_btt_manta_m8p]{ .md-button }
+
+[:material-cart: Product Link][bom_btt_manta_m8p]{ .md-button }
+
 [![product picture][img_btt_manta_m8p]{width="200"}][img_btt_manta_m8p]
 
-[:material-git: GitHub Folder][git_btt_manta_m8p]
-
-[:material-cart: Product Link][bom_btt_manta_m8p]
+- Mounting: 4x M3
 
 ### Octopus Series
 
 The Octopus Pro is not currently supported, but may be added in a future release.
 #### Octopus
 
+[:material-git: GitHub Folder][git_btt_octopus]{ .md-button }
+
+[:material-cart: Product Link][bom_btt_octopus]{ .md-button }
+
 [![product picture][img_btt_octopus]{width="200"}][img_btt_octopus]
 
-[:material-git: GitHub Folder][git_btt_octopus]
-
-[:material-cart: Product Link][bom_btt_octopus]
+- Mounting: 4x M3
 
 ## Duet3D
 
@@ -93,34 +109,39 @@ The Octopus Pro is not currently supported, but may be added in a future release
 
 Compatible with all versions.
 
+[:material-git: GitHub Folder][git_duet_3_mini_5+]{ .md-button }
+
+[:material-cart: Product Link][bom_duet_3_mini_5+]{ .md-button }
+
 [![product picture][img_duet_3_mini_5+]{width="200"}][img_duet_3_mini_5+]
 
-[:material-git: GitHub Folder][git_duet_3_mini_5+]
-
-[:material-cart: Product Link][bom_duet_3_mini_5+]
+- Mounting: 4x M3
 
 ### Duet 3 6HC
 
 Compatible with all versions.
 
+[:material-git: GitHub Folder][git_duet_3_6hc]{ .md-button }
+
+[:material-cart: Product Link][bom_duet_3_6hc]{ .md-button }
+
 [![product picture][img_duet_3_6hc]{width="200"}][img_duet_3_6hc]
 
-[:material-git: GitHub Folder][git_duet_3_6hc]
+- Mounting: 4x M3
 
-[:material-cart: Product Link][bom_duet_3_6hc]
 
 ## Other Boards
 
 ### Creality
 
-Compatible with version 1.x to 4.x.
+[:material-git: GitHub Folder][git_btt_skr_e3]{ .md-button }
+
+[:material-cart: Product Link][bom_creality_4x]{ .md-button }
 
 [![product picture][img_creality]{width="200"}][img_creality]
 
-[:material-git: GitHub Folder][git_btt_skr_e3]
-
-[:material-cart: Product Link][bom_creality_4x]
-
+- Mounting: 4-5x M3
+- Notes: Compatible with version 1.x to 4.x.
 
 [img_mcu]: ../img/components/mcu.png
 

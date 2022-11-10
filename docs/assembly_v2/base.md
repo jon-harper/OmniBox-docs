@@ -5,11 +5,11 @@ authors: Jon Harper
 date: 2022-10-29
 ---
 
-We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-outline: Base and :material-alpha-t-box: :material-alpha-p-box-outline: PSU Tray.
+We will start by assembling the Base and PSU Tray.
 
 ## PSU Tray
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/psu.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -20,7 +20,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
     |---------------------------|-----|---------------------------------|
     | M4 x 6mm machine screws   | 4   | No longer than 8mm.             |
     | Mean Well LRS-350-24      | 1   |                                 |
-    | [:material-alpha-t-box: :material-alpha-p-box-outline: PSU Tray][git_psu_lrs350]  | 1   | :material-printer-3d-nozzle: Printed, 2 files. |
+    | [:material-git: PSU Tray][git_psu_lrs350]  | 1   | :material-printer-3d-nozzle: Printed, 2 files. |
 
 === "Generic"
 
@@ -28,7 +28,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
     |---------------------------|-----|---------------------------------|
     | M4 x 6mm machine screws   | 4-8 | No longer than 8mm.             |
     | Compatible power supply   | 1   |  |
-    | :material-alpha-t-box: :material-alpha-p-box-outline: PSU Tray  | 1   | :material-printer-3d-nozzle: Printed, 2 files. |
+    | PSU Tray                  | 1   | :material-printer-3d-nozzle: Printed, 2 files. |
 
 ### Directions
 
@@ -63,7 +63,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 
 ## Prepare the Base
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/base_prep.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -90,7 +90,7 @@ We will start by assembling the :material-alpha-c-box: :material-alpha-b-box-out
 
 
 !!! note
-    The [unified base][git_base_unified] replaces both the front and rear bases and requires no additional parts.
+    The [:material-git: unified base][git_base_unified] replaces both the front and rear bases and requires no additional parts.
 
 ### Directions
 

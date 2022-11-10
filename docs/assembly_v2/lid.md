@@ -7,7 +7,7 @@ date: 2022-11-03
 
 ## Lids
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/lid.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -18,22 +18,22 @@ date: 2022-11-03
     |---------------------------|-----|---------------------------------|
     | M3 x 6mm machine screws   | 8   | May substitute longer screws.   |
     | M3 x 8mm machine screws   | 2   |                                 |
-    | [:material-alpha-p-box: :material-alpha-l-box-outline: Long Carry Handle Lid][git_lid_handle_long] | 1  | :material-printer-3d-nozzle: Printed |
-    | [Carry Handle for Lids][git_carry_handle] | 1  | :material-printer-3d-nozzle: Printed |
+    | [:material-git: Long Carry Handle Lid][git_lid_handle_long] | 1  | :material-printer-3d-nozzle: Printed |
+    | [:material-git: Carry Handle for Lids][git_carry_handle] | 1  | :material-printer-3d-nozzle: Printed |
 
 === "Generic"
 
     | Parts                     | Qty | Note                            |
     |---------------------------|-----|---------------------------------|
     | M3 x 8mm machine screws   | 8   | May substitute 10mm or 12mm.    |
-    | :material-alpha-p-box: :material-alpha-l-box-outline: Lid | 1-2  | :material-printer-3d-nozzle: Printed |
+    | Lid | 1-2  | :material-printer-3d-nozzle: Printed |
 
 === "HSI"
 
     | Parts                     | Qty | Note                            |
     |---------------------------|-----|---------------------------------|
     | M3 x 6mm machine screws   | 8   | May substitute longer screws.   |
-    | :material-alpha-p-box: :material-alpha-l-box-outline: Lid | 1-2  | :material-printer-3d-nozzle: Printed |
+    | Lid | 1-2  | :material-printer-3d-nozzle: Printed |
 
 !!! note
     The stock carry handle is illustrated, but there is also a version of the handle for heat set inserts.

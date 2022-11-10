@@ -5,7 +5,7 @@ authors: Jon Harper
 date: 2022-11-01
 ---
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/hsi_rear.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -13,7 +13,7 @@ date: 2022-11-01
 | Parts                             | Qty | Note                            |
 |-----------------------------------|-----|---------------------------------|
 | Heat set inserts, M3, 4.5x5.7mm   | 16  |                                 |
-| :material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-b-box-outline: Main Body - Rear | 1   | :material-printer-3d-nozzle: Printed |
+| [:material-git: Main Body - Rear][git_main_body_rear] | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
                                                             

@@ -5,11 +5,11 @@ authors: Jon Harper
 date: 2022-10-29
 ---
 
-So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outline: Base. Next we'll add the :material-alpha-c-box: :material-alpha-m-box-outline: Main Body. This is made of front and rear pieces that fasten to one another and the Base.
+So far we have assembled the Base. Next we'll add the Main Body. This is made of front and rear pieces that fasten to one another and the Base.
 
-## Attach the :material-alpha-c-box: :material-alpha-m-box-outline: Main Body
+## Attach the Main Body
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/main_floor.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -17,8 +17,8 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 | Parts                        | Qty | Note                            |
 |------------------------------|-----|---------------------------------|
 | #6 x 3/4" sharp point screws | 8   |                                 |
-| [:material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-f-box-outline: Main Body - Front][git_main_body_front] | 1   | :material-printer-3d-nozzle: Printed |
-| [:material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-r-box-outline: Main Body - Rear][git_main_body_rear]  | 1   | :material-printer-3d-nozzle: Printed |
+| [:material-git: Main Body - Front][git_main_body_front] | 1   | :material-printer-3d-nozzle: Printed |
+| [:material-git: Main Body - Rear][git_main_body_rear]  | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
 
@@ -55,7 +55,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 
 ## Secure and Align the Center
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/main_center.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -92,7 +92,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 
 ## Add Fans
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/fans.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -102,8 +102,8 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 | M3 x 16mm machine screws  | 4   | For front fan                   |
 | M3 x 20mm machine screws  | 8   | For rear fans                   |
 | 40x40x10mm axial fan      | 3   |                                 |
-| :material-alpha-f-box: :material-alpha-c-box-outline: 40mmx10mm Fan Cage | 2 | :material-printer-3d-nozzle: Printed |
-| :material-alpha-f-box: :material-alpha-g-box-outline: 40mmx10mm Fan Gasket | 2 | :material-printer-3d-nozzle: Printed TPU, Optional |
+| 40mmx10mm Fan Cage | 2 | :material-printer-3d-nozzle: Printed |
+| 40mmx10mm Fan Gasket | 2 | :material-printer-3d-nozzle: Printed TPU, Optional |
 
 ### Directions
 
@@ -134,7 +134,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 
 ## Attach Crossbar
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/crossbar.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials 
@@ -142,7 +142,7 @@ So far we have assembled the :material-alpha-c-box: :material-alpha-b-box-outlin
 | Parts                     | Qty | Note                            |
 |---------------------------|-----|---------------------------------|
 | M3 x 20mm machine screws  | 2   |                                 |
-| :material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-c-box-outline: Main Body - Crossbar | 1   | :material-printer-3d-nozzle: Printed |
+| Main Body - Crossbar | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
 

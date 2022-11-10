@@ -7,7 +7,7 @@ date: 2022-11-03
 
 ## Front Panel
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/front.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -18,7 +18,7 @@ date: 2022-11-03
     |---------------------------|-----|---------------------------------|
     | M3 x 6mm machine screws   | 4   |                                 |
     | M3 x 8mm machine screws   | 2   | May substitute 10mm or 12mm.    |
-    | [:material-alpha-p-box: :material-alpha-f-box-outline: Front Panel with Micro SD Extension][git_front_sd_no_usb] | 1  | :material-printer-3d-nozzle: Printed |
+    | [:material-git: Front Panel with Micro SD Extension][git_front_sd_no_usb] | 1  | :material-printer-3d-nozzle: Printed |
     | [:material-cart: LANMU Micro SD Card Extension][bom_lanmu_micro_sd] | 1   | |
 
 === "Basic"
@@ -26,7 +26,7 @@ date: 2022-11-03
     | Parts                     | Qty | Note                            |
     |---------------------------|-----|---------------------------------|
     | M3 x 8mm machine screws   | 2   | May substitute 10mm or 12mm.    |
-    | :material-alpha-p-box: :material-alpha-f-box-outline: Front Panel | 1  | :material-printer-3d-nozzle: Printed |
+    | Front Panel | 1  | :material-printer-3d-nozzle: Printed |
 
 !!! note "Note: LED Backing Panel"
     If you are using the LED backer, you will need to substitute M3 x 12mm screws in place of the two (2) M3 x 8mm.

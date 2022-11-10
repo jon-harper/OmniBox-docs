@@ -28,19 +28,23 @@ If you do not use an SBC, the side of the bay can be used as a [Side Panel][pane
 
 ### Raspberry Pi 3B+
 
+[:material-git: GitHub Folder][git_rpi_3b_plus]{ .md-button }
+
+[:material-cart: Product Link][bom_rpi_3b_plus]{ .md-button }
+
 [![product picture][img_rpi_3b]{width="200"}][img_rpi_3b]
 
-[:material-git: GitHub Folder][git_rpi_3b_plus]
-
-[:material-cart: Product Link][bom_rpi_3b_plus]
+Mounting: 4x M3
 
 ### Raspberry Pi 4B
 
+[:material-git: GitHub Folder][git_rpi_4b]{ .md-button }
+
+[:material-cart: Product Link][bom_rpi_4b]{ .md-button }
+
 [![product picture][img_rpi_4b]{width="200"}][img_rpi_4b]
 
-[:material-git: GitHub Folder][git_rpi_4b]
-
-[:material-cart: Product Link][bom_rpi_4b]
+Mounting: 4x M3
 
 [cpu]: ../img/components/cpu.png
 [img_rpi_3b]: ../img/parts/rpi_3b_plus.jpg

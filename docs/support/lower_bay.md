@@ -81,6 +81,7 @@ Long trays for buck converters often have a 40mm fan mount. This is particularly
 - Mounting: 4x M3
 - Hole Pattern: 52.5mm x 28.75mm
 - Trays:
+
     - Short (single)
 
 ### DROK 5A Buck with LED
@@ -110,7 +111,8 @@ Trays:
 
 - Mounting: 2x M3
 - Trays:
-    - Short (single), Long (single)
+    - Short (single)
+    - Long (single)
 
 ## Solid State Relays
 

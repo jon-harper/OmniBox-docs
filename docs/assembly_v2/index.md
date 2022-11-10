@@ -30,17 +30,17 @@ Experienced users following this guide should be able to install all inserts in 
 
 Gaining experience with inserts saves time and lowers the chances of printed part damage. If you are using inserts for the first time, it is recommended that you print at least one [practice block][git_hsi_practice] to gain a level of comfort.
 
-#### 2. :material-alpha-c-box: Core & :material-alpha-t-box: :material-alpha-p-box-outline: PSU
+#### 2. Core & PSU
 
 Assembly starts in earnest by building the Base around the PSU and wiring it up. This acts as a first layer of the case that we will build upwards from.
 
 The section finishes by installing the Main Body.
 
-#### 3. :material-alpha-t-box: :material-alpha-c-box-outline: CPU & :material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Trays
+#### 3. CPU & Lower Bay Trays
 
 The second layer of the case adds the SoC CPU and lower bay components. By the end of this section, the "floor" of the case and front panel will be installed.
 
-#### 4. :material-alpha-t-box: :material-alpha-m-box-outline: MCU & :material-alpha-p-box: Panels
+#### 4. MCU & Panels
 
 At this point, assembly centers around the MCU, wiring, and closing up the case.
 
@@ -76,7 +76,7 @@ These instructions are cover a generic OmniBox configuration. For example, the s
 
 This guide cannot cover every mounting combination for trays and panels; however, the git repository has Bill of Material information for mounting components to their respective tray or panel.
 
-Areas where the :material-alpha-c-box: Core variants may differ from instructions are specifically called out.
+Areas where the Core variants may differ from instructions are specifically called out.
 
 ## Techniques
 

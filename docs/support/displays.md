@@ -36,6 +36,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 [![product picture][img_12864]{width="200"}][img_12864]
 
+- Mounting: 4x M3
 - Notes: Also known as Creality CR-10 stock display; comes on most Creality printers.
 
 ### FYSETC Mini 12864
@@ -46,6 +47,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 [![product picture][img_mini12864]{width="200"}][img_mini12864]
 
+- Mounting: 4x M3
 - Notes: This includes BIGTREETECH brand and other clones.
 
 ### BIGTREETECH 2.4" TFT
@@ -54,6 +56,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 [![product picture][img_btt_tft24]{width="200"}][img_btt_tft24]
 
+- Mounting: 4x M3
 - Notes: This product is discontinued, but I still use it, so there's a part.
 
 ### BIGTREETECH 3.5" TFT
@@ -64,6 +67,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 [![product picture][img_btt_tft35]{width="200"}][img_btt_tft35]
 
+- Mounting: 4x M3
 - Notes: This is not the E3 version, which would use the Generic 12864 mount. 
 
 ### BIGTREETECH 3.5" TFT E3
@@ -74,6 +78,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 [![product picture][img_btt_tft35_e3]{width="200"}][img_btt_tft35_e3]
 
+- Mounting: 4x M3
 - Notes: Uses the Generic 12864 mount.
 
 <!-- ### BIGTREETECH 5.0
@@ -84,6 +89,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 [![product picture][img_]{width="200"}][img_]
 
+- Mounting: 4x M3
 - Notes: **Preliminary support** -->
 
 ## Raspberry Pi Displays

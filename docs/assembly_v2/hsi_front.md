@@ -6,7 +6,7 @@ date: 2022-11-01
 ---
 
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/hsi_front.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -14,7 +14,7 @@ date: 2022-11-01
 | Parts                             | Qty | Note                            |
 |-----------------------------------|-----|---------------------------------|
 | Heat set inserts, M3, 4.5x5.7mm   | 8   |                                 |
-| :material-alpha-c-box: :material-alpha-m-box-outline: :material-alpha-f-box-outline: Main Body - Front | 1   | :material-printer-3d-nozzle: Printed |
+| [:material-git: Main Body - Front][git_main_body_front] | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
                                                             

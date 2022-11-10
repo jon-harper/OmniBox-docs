@@ -5,7 +5,7 @@ authors: Jon Harper
 date: 2022-10-30
 ---
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/side.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
@@ -13,7 +13,7 @@ date: 2022-10-30
 | Parts                     | Qty | Note                            |
 |---------------------------|-----|---------------------------------|
 | M4 x 8mm machine screws   | 4   | May substitute 10mm or 12mm.    |
-| :material-alpha-p-box: :material-alpha-s-box-outline: Side Panel | 1   | :material-printer-3d-nozzle: Printed |
+| Side Panel | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
                                                             

@@ -13,12 +13,12 @@ This is a visual tour of an OmniBox. This page demonstrates:
 
 Links are provided to the respective git folder for each component type.
 
-## Icons
+!!! note
 
-Links to external sites are tagged with icons to identify purpose:
+    Links to external sites are tagged with icons to identify purpose:
 
-- A :material-git: Git icon signals a link is to the OmniBox GitHub. 
-- Sample links to shopping websites have a :material-cart: icon next to them.
+    - A link with the :material-git: Git icon points to the OmniBox GitHub. 
+    - Sample links to shopping websites have a :material-cart: icon next to them.
 
 ## Overview
 

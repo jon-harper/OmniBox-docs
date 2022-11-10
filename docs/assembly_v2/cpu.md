@@ -7,7 +7,7 @@ date: 2022-10-30
 
 This section is optional. If you are not using a SoC CPU like a Raspberry Pi, use a second [side panel][side] in the next assembly section.
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/cpu.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ## Materials
@@ -19,7 +19,7 @@ This section is optional. If you are not using a SoC CPU like a Raspberry Pi, us
     | M3 x 6mm machine screws   | 4   |                                 |
     | M3 x 8mm machine screws   | 4   | May substitute 10mm or 12mm.    |
     | Raspberry Pi 4B           | 1   |                                 |
-    | [:material-alpha-t-box: :material-alpha-c-box-outline: Raspberry Pi 4B CPU Tray][git_rpi_4b] | 1   | :material-printer-3d-nozzle: Printed |
+    | [:material-git: Raspberry Pi 4B CPU Tray][git_rpi_4b] | 1   | :material-printer-3d-nozzle: Printed |
 
 === "Generic"
 
@@ -28,7 +28,7 @@ This section is optional. If you are not using a SoC CPU like a Raspberry Pi, us
     | M3 x 8mm machine screws   | 4   | May substitute 10mm or 12mm.    |
     | M3 x 6mm machine screws   | N/A | Most SoC CPUs use four (4).     |
     | Compatible SoC CPU        | 1   |                                 |
-    | :material-alpha-t-box: :material-alpha-c-box-outline: CPU Tray | 1   | :material-printer-3d-nozzle: Printed |
+    | CPU Tray | 1   | :material-printer-3d-nozzle: Printed |
     
 ## Directions
                                                             

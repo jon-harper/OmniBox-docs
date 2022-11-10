@@ -7,7 +7,7 @@ date: 2022-10-30
 
 ## Introduction
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/lower_bay.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ## Long Trays
@@ -18,7 +18,7 @@ date: 2022-10-30
 |---------------------------|-----|---------------------------------|
 | M3 x 6mm machine screws   | 8   |                                 |
 | Compatible hardware       | 2   | Illustrated: Basic LM2596 Buck Converter |
-| Long :material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Tray | 1   | :material-printer-3d-nozzle: Printed |
+| Long Lower Bay Tray | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
                                                             
@@ -50,7 +50,7 @@ date: 2022-10-30
 |---------------------------|-----|---------------------------------|
 | M3 x 6mm machine screws   | 8   |                                 |
 | Compatible hardware       | 1   | Illustrated: BIGTREETECH UPS 24V 1.0 |
-| Short :material-alpha-t-box: :material-alpha-l-box-outline: Lower Bay Tray | 1   | :material-printer-3d-nozzle: Printed |
+| Short Lower Bay Tray | 1   | :material-printer-3d-nozzle: Printed |
 
 ### Directions
                                                             

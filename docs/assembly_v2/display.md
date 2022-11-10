@@ -9,7 +9,7 @@ This section covers assembling a generic 12864 display panel, like the kind comm
 
 Common aftermarket TFT displays have an extra step of mounting the display to a cover. The cover then attaches to the panel. Other than this, the installation process remains the same.
 
-??? info "Video Overview"
+??? overview
     <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/display.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ## Materials
@@ -21,8 +21,8 @@ Common aftermarket TFT displays have an extra step of mounting the display to a 
     | M3 x 6mm machine screws   | 4   |                                 |
     | M3 x 8mm machine screws   | 4   | May substitute 10mm or 12mm.    |
     | Generic 12864 LCD         | 1   | Comes with many Creality printers. |
-    | [:material-alpha-p-box: :material-alpha-d-box-outline: Display Panel][git_generic_12864] | 1   | :material-printer-3d-nozzle: Printed |
-    | Display Knob | 1 | :material-printer-3d-nozzle: Printed, Optional |
+    | [:material-git: Display Panel][git_generic_12864] | 1   | :material-printer-3d-nozzle: Printed |
+    | [:material-git: Display Knob][git_display_knob] | 1 | :material-printer-3d-nozzle: Printed, Optional |
 
 
 === "Stock"
@@ -31,7 +31,7 @@ Common aftermarket TFT displays have an extra step of mounting the display to a 
     |---------------------------|-----|---------------------------------|
     | M3 x 12mm machine screws  | 4   | Can also use 10mm.              |
     | Compatible LCD display    | 1   |                                 |
-    | :material-alpha-p-box: :material-alpha-d-box-outline: Display Panel | 1   | :material-printer-3d-nozzle: Printed |
+    | Display Panel | 1   | :material-printer-3d-nozzle: Printed |
 
 === "HSI"
 
@@ -39,7 +39,7 @@ Common aftermarket TFT displays have an extra step of mounting the display to a 
     |---------------------------|-----|---------------------------------|
     | M3 x 8mm machine screws   | 4   |                                 |
     | Compatible LCD display    | 1   | |
-    | :material-alpha-p-box: :material-alpha-d-box-outline: Display Panel | 1   | :material-printer-3d-nozzle: Printed |
+    | Display Panel | 1   | :material-printer-3d-nozzle: Printed |
 
 
 !!! note
