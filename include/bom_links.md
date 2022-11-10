@@ -4,6 +4,8 @@
 
 <!-- Fasteners -->
 [bom_wood_screw]:       https://www.amazon.com/gp/product/B08LV4D8SB                                             "Amazon: #6 x 3/4" Pan Head Sharp Point Screw"
+[bom_hsi_m3]:           https://www.amazon.com/iplusmile-Embedment-Threaded-Printing-Projects/dp/B087NBYF65      "Amazon: Heat Set Insert, M3, 4.6x5.7mm"
+[bom_hsi_tips]:         https://www.amazon.com/HanTof-Heat-set-Compatible-Soldering-Connecting/dp/B0B4JNQLNB/    "Amazon: Heat Set Insert Tips for Soldering Irons"
 
 <!-- Misc Electrical -->
 [bom_switch]:           https://www.amazon.com/gp/product/B07QQ22DTB                                             "Amazon: SPST snap-in rocker switch"
