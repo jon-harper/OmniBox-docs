@@ -64,7 +64,7 @@ The base can mount up to three concealed 40mm fans in the intakes. The following
 
 | Item                              | Qty | UOM | Note                                                     |
 |-----------------------------------|-----|-----|----------------------------------------------------------|
-| [:material-cart: 40x40x10mm axial fan][bom_4010]  | 1   | ea  |                                                          |
+| [:material-cart: 40x40x10mm axial fan][bom_4010]  | 1   | ea  |                                          |
 | M3 x 16mm machine screws          | 4   | ea	| Some fans have recesses that instead use 10-12mm screws. |
 
 ### Main Body - Front
@@ -101,7 +101,7 @@ The rear body also has two versions: one with dual exhausts and one without any.
 
 === "Dual 40mm Exhausts"
 
-    [![illustration][img_rear_dual_40mm]{ width="360" }][img_rear_dual_40mm]
+    [![illustration][img_rear_dual_40mm]{ width="300" }][img_rear_dual_40mm]
 
     This version adds two (2) externally mounted 40mm fans.
 
@@ -114,7 +114,7 @@ The rear body also has two versions: one with dual exhausts and one without any.
 
 === "No Exhaust Fans"
 
-    [![illustration][img_rear_no_fans]{ width="360" }][img_rear_no_fans]
+    [![illustration][img_rear_no_fans]{ width="300" }][img_rear_no_fans]
 
     There are no additional materials required for this version. 
 

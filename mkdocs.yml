@@ -30,6 +30,7 @@ markdown_extensions:
 theme:
   name: material
   logo: img/logo.png
+  favicon: img/favicon.png
   features:
     - navigation.instant
     - navigation.sections
@@ -70,6 +71,7 @@ nav:
   - index.md
   - development.md
   - tour.md
+  # - faq.md
   - license.md
 
   - Supported Parts:
