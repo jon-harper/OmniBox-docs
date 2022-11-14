@@ -80,28 +80,26 @@ Areas where the Core variants may differ from instructions are specifically call
 
 ## Techniques
 
-Assembly relies on a few concepts used throughout this guide.
+Assembly relies on a few general techniques reused throughout this guide.
 
 ### Fastening Screws
 
 Screws thread directly into the walls of the plastic where heat set inserts are not used.
 
-For example, lower bay trays attach to the main body with M3 screws. The trays have holes larger than the diameter of the screw, but the holes in the standoff are *smaller*. This lets the screw "bite" the plastic of the standoff and the screw head to clamp down on the tray.
+For example, lower bay trays attach to the main body with M3 screws. The trays have holes larger than the diameter of the screw, but the holes in the standoff are smaller. The screw "bites" the plastic of the standoff and the screw head to clamps down on the tray.
 
 !!! note
     Parts of the case that are frequently removed have deeper-than-necessary screw holes. You can use replace your screws with longer ones to get "fresh" plastic for the threads as the walls wear down.
 
-    This is most common with the lid, since it is removed most often. Over time you may need to switch from 8mm to 10mm screws, for example.
+    For example, over time you may need to switch from 8mm to 10mm screws. This is most common with the lid, as it is removed most often.
 
-### Example Image Orientation
+### Example Illustrations
 
-Images for assembly are provided from isometric (angled and over-or-under) perspectives. The component (or components) used in the current step is highlighted in blue.
+Illustrations for assembly are provided from isometric (angled and over-or-under) perspectives. The relevant parts for the current step are highlighted in each illustration.
 
 ### Mounting Fans
 
-The procedure for both internal and external fan mounting is covered in the guide.
-
-External fan cages and gaskets come in a number of sizes, but all sizes follow an identical procedure to mount.
+The procedure for both internal and external fan mounting is covered in the guide. External fan cages and gaskets come in a number of sizes, but all sizes attach externally with the same type of cage.
 
 Note that fans 60mm and smaller use M3 screws; larger fans require M4 screws.
 

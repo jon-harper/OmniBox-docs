@@ -10,7 +10,7 @@ The front of the Main Body has eight (8) inserts, with four (4) canted at an ang
 !!! note
     The display screen is at a **50 degree** angle, not 45. The [:material-git: practice block][git_hsi_practice] has six holes at this angle for practice purposes.
 
-    It is important get the insert flush with the display surface.
+    It is important that the inserts are flush with the display surface.
 
 
 ??? overview

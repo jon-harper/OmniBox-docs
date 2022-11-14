@@ -75,21 +75,22 @@ Assembly of the case starts with the Base and PSU Tray.
     | M3 x 16mm machine screws  | 4   | Four per fan.                   |
     | 40mm x 10mm axial fan     | 1   | Optional, up to three.          |
     | SPST toggle switch        | 1   |                                 |
-    | IEC C14 socket with fuse  | 1   |                                 |
-    | :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-f-box-outline: Base - Front | 1   | :material-printer-3d-nozzle: Printed |
-    | :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-r-box-outline: Base - Rear  | 1   | :material-printer-3d-nozzle: Printed |
+    | IEC C14 socket with fuse holder | 1   |                           |
+    | Fuse, Glass, 5x20mm, Fast Blow | 1 | |                            |
+    | [:material-git: Base - Front][git_base_front] | 1   | :material-printer-3d-nozzle: Printed |
+    | [:material-git: Base - Rear][git_base_rear]  | 1   | :material-printer-3d-nozzle: Printed |
 
 === "Generic"
     | Parts                     | Qty | Note                            |
     |---------------------------|-----|---------------------------------|
     | M3 x 8mm machine screws   | 2   |                                 |
     | SPST toggle switch        | 1   |                                 |
-    | IEC C14 socket with fuse  | 1   |                                 |
-    | :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-f-box-outline: Base - Front | 1   | :material-printer-3d-nozzle: Printed |
-    | :material-alpha-c-box: :material-alpha-b-box-outline: :material-alpha-r-box-outline: Base - Rear  | 1   | :material-printer-3d-nozzle: Printed |
+    | IEC C14 socket with fuse holder | 1   |                           |
+    | Fuse, Glass, 5x20mm, Fast Blow | 1 | |                            |
+    | [:material-git: Base - Front][git_base_front] | 1   | :material-printer-3d-nozzle: Printed |
+    | [:material-git: Base - Rear][git_base_rear]  | 1   | :material-printer-3d-nozzle: Printed |
 
-
-!!! note
+!!! note "Note: Unified Base"
     The [:material-git: unified base][git_base_unified] replaces both the front and rear bases and requires no additional parts.
 
 ### Directions
@@ -104,30 +105,53 @@ Assembly of the case starts with the Base and PSU Tray.
     
     Repeat the next two (2) steps for any additional fans.
 
+!!! caution
+    Once the main body is installed, the fan will press directly against the floor of the main body. If the fan's wiring passes upwards through a strain relief notch in the fan case, the wiring will become trapped between the fan and case body. Either turn the fan 90 degrees or the remove the wiring from the strain relief notch.
+
 <figure markdown>
   [![illustration][base_prep2]{width="480"}][base_prep2]
   <figcaption>2. Place a 40mm fan against the front vent and align with the screw holes. Most users will want the airflow entering from the front.</figcaption>
 </figure>
 
-!!! note
-    The direction of airflow for most fans is towards the sticker on the motor. In this case, the sticker should face away from the vent.
-
-!!! caution
-    Once the main body is installed, the fan will press directly against the floor. If the fan wiring passes *upwards* through a strain relief notch in the fan case, the wiring will become trapped between the fan and case body. Either turn the fan 90 degrees or the remove the wiring from the strain relief notch.
+!!! note "Note: Airflow Direction"
+    The direction of airflow for most fans is towards base of the motor. Most fans have a sticker on this side of the motor. In this case, the sticker should face away from the vent.
 
 <figure markdown>
   [![illustration][base_prep3]{width="480"}][base_prep3]
   <figcaption>3. Attach the fan with four (4) M3 x 16mm screws.</figcaption>
 </figure>
 
+!!! important "Important: Screw Lengths"
+    The holes for internally mounted fans are 6mm deep. With a 10mm fan, this means screws should never be longer than 16mm.
+
+    Some fans have 4mm deep cutouts for screw heads. If your fan has these, use 10mm or 12mm screws instead.
+
+!!! note
+    The next two steps are necessary if:
+
+    - The IEC socket does not have a fuse; or
+    - The IEC socket has a fuse of the wrong capacity for your printer.
+
+    Your printer typically comes with a fused socket of the correct capacity. It does not hurt to check anyway.
+
+<figure markdown>
+  ![illustration][iec1]
+  <figcaption>4. Remove the back of the fuse holder from the IEC socket.</figcaption>
+</figure>
+
+<figure markdown>
+  ![illustration][iec2]
+  <figcaption>5. Insert the a fuse into the fuse holder. If necessary, remove the fuse that came with the socket.</figcaption>
+</figure>
+
 <figure markdown>
   [![illustration][base_prep4]{width="480"}][base_prep4]
-  <figcaption>Insert the IEC power switch socket into the rear of the base.</figcaption>
+  <figcaption>6. Replace the cover and insert the IEC power switch socket into the rear of the base.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][base_prep5]{width="480"}][base_prep5]
-  <figcaption>Secure with two (2) M3 x 8mm screws.</figcaption>
+  <figcaption>7. Secure with two (2) M3 x 8mm screws.</figcaption>
 </figure>
 
 ### Finished Reference
@@ -149,17 +173,17 @@ Assembly of the case starts with the Base and PSU Tray.
 
 <figure markdown>
   [![illustration][psu_final]{width="480"}][psu_final]
-  <figcaption>Turn the PSU tray assembly so that the PSU terminals are oriented downards and away from you.</figcaption>
+  <figcaption>1. Turn the PSU tray assembly so that the PSU terminals are oriented downards and away from you.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][base1]{width="480"}][base1]
-  <figcaption>Place the base pieces around the PSU tray. The edges should fit together. Note that the power supply terminals are facing downwards.</figcaption>
+  <figcaption>2. Place the base pieces around the PSU tray. The edges should fit together. Note that the power supply terminals are facing downwards.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][base2]{width="480"}][base2]
-  <figcaption>Use six (6) 12mm M3 screws to attach the base to the PSU tray.</figcaption>
+  <figcaption>3. Use six (6) 12mm M3 screws to attach the base to the PSU tray.</figcaption>
 </figure>
 
 ### Finished Reference
@@ -173,6 +197,9 @@ Assembly of the case starts with the Base and PSU Tray.
 [psu5]: ../img/assembly/trays/psu/psu5.png
 [psu_final]: ../img/assembly/trays/psu/psu_final.png
 [vid_psu]: ../video/psu.mp4
+
+[iec1]: ../img/assembly/iec/iec1.png
+[iec2]: ../img/assembly/iec/iec2.png
 
 [base_prep1]: ../img/assembly/core/base/base_prep1.png
 [base_prep2]: ../img/assembly/core/base/base_prep2.png

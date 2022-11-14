@@ -30,6 +30,10 @@
   --md-code-font: Hack, Monospace;
 }
 
+[data-md-color-scheme="slate"] {
+    --md-hue: 205; 
+  }  
+
 .md-header__title, h1{
     font-family: Hack, monospace;
 }

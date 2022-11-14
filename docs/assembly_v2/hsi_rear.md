@@ -26,7 +26,7 @@ Adding inserts finishes with the rear of the Main Body.
 
 <figure markdown>
   [![illustration][hsi_rear2]{width="480"}][hsi_rear2]
-  <figcaption>2. Place six (6) inserts in 4.5mm holes for the rear panel.</figcaption>
+  <figcaption>2. Place six (6) inserts in the 4.5mm holes for the rear panel.</figcaption>
 </figure>
 
 <figure markdown>
@@ -36,7 +36,7 @@ Adding inserts finishes with the rear of the Main Body.
 
 <figure markdown>
   [![illustration][hsi_rear4]{width="480"}][hsi_rear4]
-  <figcaption>4. Flip the rear body to sit flat.</figcaption>
+  <figcaption>4. Flip the rear body to sit flat, as pictured.</figcaption>
 </figure>
 
 <figure markdown>

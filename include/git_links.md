@@ -54,8 +54,9 @@
 [git_lid_handle_short]: https://github.com/jon-harper/OmniBox/tree/main/Panels/Lid/Short/Carry%20Lid        "OmniBox GitHub: Short Carry Lid"
 
 
-<!--      /Rear Panel -->
+<!--      /Side Panel -->
 [git_side_panel]:       https://github.com/jon-harper/OmniBox/tree/main/Panels/Side%20Panel                 "OmniBox GitHub: Side Panels"
+[git_blank_side_panel]: https://github.com/jon-harper/OmniBox/tree/main/Panels/Side%20Panel/Blank           "OmniBox GitHub: Blank Side Panel"
 
 <!--      /Rear Panel -->
 [git_rear_panel]:       https://github.com/jon-harper/OmniBox/tree/main/Panels/Rear%20Panel                 "OmniBox GitHub: Rear Panels"

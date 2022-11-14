@@ -19,26 +19,31 @@ date: 2022-10-30
                                                             
 <figure markdown>
   [![illustration][hsi_base1]{width="480"}][hsi_base1]
-  <figcaption>1. Set the base in front of you standing upright as pictured.</figcaption>
+  <figcaption>1. Stand the base upright as pictured.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][hsi_base2]{width="480"}][hsi_base2]
-  <figcaption>2. Put a heat set insert into each of the two (2) 4.5mm holes.</figcaption>
+  <figcaption>2. Use your fingers or pliers to push a heat set insert into each of the two (2) 4.5mm holes. The insert should drop in until it reaches the first set of knurles.</figcaption>
 </figure>
 
 !!! note
-    Insert *may* require light force and "pop" in place, particularly on holes printed along the Z axis.
+    ![heat set insert][img_hsi]{ width="128" align="right"}
+    The insert has a rounded lip on one side. This end "sits" in the hole and maintains alignment with the hole during heating and insertion.
+
+!!! tip
+    The insert holes have a slight inward slope. Resistance will gradually increase as the insert slides in place. Resistance greatly increases when the insert deviates from the hole.
 
 <figure markdown>
   [![illustration][hsi_base3]{width="480"}][hsi_base3]
-  <figcaption>3. Using a soldering iron at a low heat (~200C), place the tip on the insert. As the insert heats and begins softening the plastic around it, lightly push down into the hole until the insert is flush or slightly below the surface.</figcaption>
+  <figcaption>3. Set your soldering iron to a low heat (~200C), preferably with an M3 insert tip. Place the tip of the iron on the insert.<br>
+  4. As the insert heats and begins softening the plastic around it, lightly push down into the hole until the insert is flush or slightly below the surface.</figcaption>
 </figure>
 
 !!! note
-    The insert holes have a slight inward slope. Resistance will gradually increase as the insert slides in place. Resistance greatly increases when the insert deviates from the hole.
+    If the insert enters at an angle, reheating the insert with the soldering iron and tilting it upright will fix the issue. The plastic around the insert will deform around the insert as it is tilted upright.
 
-    If the insert enters at an angle, reheating the insert with the soldering iron and tilting it upright will fix the issue. The plastic around the insert will melt around the insert as it is tilted upright.
+    This issue may go unnoticed until later in assembly; this is fine. The most common symptom is a loud squealing noise when inserting screws. If this happens, stop assembly to fix the insert.
 
 ## Finished Reference
 
@@ -48,3 +53,4 @@ date: 2022-10-30
 [hsi_base2]: ../img/assembly/hsi/base/base_hsi2.png
 [hsi_base3]: ../img/assembly/hsi/base/base_hsi3.png
 [hsi_base_final]: ../img/assembly/hsi/base/base_hsi_final.png
+[img_hsi]: ../img/bom/hsi.png

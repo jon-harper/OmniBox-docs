@@ -4,15 +4,14 @@ summary: OmniBox documentation landing page
 authors: Jon Harper
 date: 2022-05-15
 ---
-
-!!! info
-    To switch between :material-lightbulb-on: Light and :material-lightbulb-off-outline: Dark reading mode, click the icon next to the search box.
-
 ## About OmniBox
 
 OmniBox is a 3D printable, modular electronics case for 3D printers. It supports a wide variety of parts and includes templates to add new ones. 
 
 This project is derived from Steve Burcham's [Stand Alone Main Control Case][bgdog] V3 footprint. It is released under the [MIT License][license].
+
+!!! info
+    To switch between :material-lightbulb-on: Light and :material-lightbulb-off-outline: Dark reading mode, click the icon next to the search box.
 
 <figure markdown>
   [![gallery of OmniBox part combinations][gallery_thumb]][gallery]
@@ -41,28 +40,46 @@ This project is derived from Steve Burcham's [Stand Alone Main Control Case][bgd
 
 ## Current Status
 
-OmniBox is mature enough for everyday use, despite being pre-1.0. A complete OmniBox made of parts from one release is tested to fit and work.
+Although OmniBox has not reached version 1.0, it is mature enough for everyday use. A complete OmniBox made of parts from one release is tested to fit and work. Trays and panels are compatible with all releases (see [Version Stability Guarantee](#version-stability-guarantee) for details).
 
-See the [Version History][current_release] page for information on the latest release, fixes, new features, and known issues.
+The [Version History][current_release] page contains information on the latest release, fixes, new features, and known issues.
 
 ## Version Stability Guarantee
 
-Printing OmniBox is a time investment. This makes incompatibility between versions difficult; upgrading one printed part should not require others to be reprinted. Thankfully, OmniBox is highly modular and can be upgraded piece by piece.
+Printing OmniBox is an investment. As such, the way trays and panels attach to OmniBox between versions is carefully fixed. As such, OmniBox is highly modular and can be upgraded piece by piece.
 
 !!! note
     Prior versions of this page had the Version Stability Guarantee fully in place. I have relaxed it until version 1.0 in order to deprecate M4-mounted parts.
 
-    No reprinting is necessary to use deprecated M4 panels with M3 screws. 
+    No reprinting is necessary to use old M4 panels with M3 screws, however.
 
-### Current Release (Pre-1.0)
+### Currently (Before Version 1.0)
 
-Parts issued in a release pre-1.0 will be supported through the development process to 1.0. Some parts may become deprecated but will still be available. Every effort is made to avoid incompatibilities between versions.
+Prior to version 1.0, changes may still be made to how panels and trays interface with the Core case. Deprecated parts remain available and supported through the release of 1.0 and every effort is made to avoid incompatibilities between versions.
+
+Thus far, all deprecated printed parts remain compatible with new cases.
+
+### Version 1.0
+
+With version 1.0, changes may be made that cause deprecated parts to lose compatibility. This is a final chance to "lock in" the design.
 
 ### After Version 1.0
 
 Starting with version 1.0, OmniBox will have a "Version Stability Guarantee":
 
-The Core printed components of OmniBox will be "stable" or "frozen" in how they connect with with other parts. If you choose to print a newer version of a Core part, no panels or trays will need to be reprinted.
+The Core printed components of OmniBox will be "stable" or "frozen" in how they connect with with other parts. If you choose to print a newer version of a Core part, no panels or trays will need to be reprinted. New products added in future releases can likewise be used in the Core case body from a prior release.
+
+!!! example
+    As an example, the design for CPU trays was modified for 0.9.9.
+    
+    A CPU tray from 0.9.8 will:
+
+    - Work with a case from 0.9.9 and
+    - May not work with version 1.0.
+
+    A version 0.9.9 case:
+
+    - Can use CPU trays from any release.
 
 See the [Guided Tour][tour] to see how this works in practice.
 
