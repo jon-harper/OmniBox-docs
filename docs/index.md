@@ -46,16 +46,18 @@ The [Version History][current_release] page contains information on the latest r
 
 ## Version Stability Guarantee
 
-Printing OmniBox is an investment. As such, the way trays and panels attach to OmniBox between versions is carefully fixed. As such, OmniBox is highly modular and can be upgraded piece by piece.
+Printing OmniBox is an investment. The way trays and panels attach to OmniBox between versions is carefully fixed. The result is a modular case that can be upgraded piece by piece.
 
 !!! note
     Prior versions of this page had the Version Stability Guarantee fully in place. I have relaxed it until version 1.0 in order to deprecate M4-mounted parts.
 
-    No reprinting is necessary to use old M4 panels with M3 screws, however.
+    No reprinting is necessary to use legacy M4 panels with M3 screws.
 
 ### Currently (Before Version 1.0)
 
-Prior to version 1.0, changes may still be made to how panels and trays interface with the Core case. Deprecated parts remain available and supported through the release of 1.0 and every effort is made to avoid incompatibilities between versions.
+Prior to version 1.0, changes may still be made to how panels and trays interface with the Core case. If this happens, parts using the old method are considered "deprecated". Deprecated parts remain available and supported through the release of 1.0 but will be removed after. 
+
+Every effort is made to avoid incompatibilities between versions.
 
 Thus far, all deprecated printed parts remain compatible with new cases.
 
@@ -81,7 +83,7 @@ The Core printed components of OmniBox will be "stable" or "frozen" in how they 
 
     - Can use CPU trays from any release.
 
-See the [Guided Tour][tour] to see how this works in practice.
+See the [Guided Tour][tour] to see how the components of an OmniBox fit together in practice.
 
 [gallery_thumb]: img/examples/gallery_thumb.png
 [gallery]: img/examples/gallery.png
