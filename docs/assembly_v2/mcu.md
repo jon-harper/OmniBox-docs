@@ -13,6 +13,15 @@ date: 2022-10-30
 
 ### Materials
 
+=== "As Illustrated"
+
+    | Parts                     | Qty | Note                            |
+    |---------------------------|-----|---------------------------------|
+    | M3 x 6mm machine screws   | 4   | Some boards may use 5 or more.  |
+    | M3 x 8mm machine screws   | 4   | May substitute 10mm or 12mm.    |
+    | BIGTREETECH SKR 2         | 1   |                                 |
+    | [:material-git: MCU Tray - BTT SKR 1.3-2][git_btt_skr] | 1   | :material-printer-3d-nozzle: Printed |
+
 === "Stock"
 
     | Parts                     | Qty | Note                            |

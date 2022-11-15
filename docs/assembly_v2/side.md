@@ -15,6 +15,8 @@ Each case has two CPU bays.
 
 ### Materials
 
+These lists are per side panel.
+
 === "As Illustrated"
 
     | Parts                     | Qty | Note                            |

@@ -1,14 +1,14 @@
 ---
-title: Bottom Panel
+title: Bottom Panel & Final Notes
 summary: Installing the bottom panel.
 authors: Jon Harper
 date: 2022-11-15
 ---
 
 ## Bottom Panel
-<!-- 
+
 ??? overview
-    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/lid.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe> -->
+    <iframe src="https://jon-harper.github.io/OmniBox/video/0.9.9/bottom.mp4" frameborder="0" width="100%" height="600px" allowfullscreen></iframe>
 
 ### Materials
 
@@ -38,22 +38,22 @@ date: 2022-11-15
                                                             
 <figure markdown>
   [![illustration][bottom1]{width="480"}][bottom1]
-  <figcaption>1. Place the handle over the screw holes in the center of the lid.</figcaption>
+  <figcaption>1. Line up the front bottom panel with the front base.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][bottom2]{width="480"}][bottom2]
-  <figcaption>2. Flip the lid over and fasten the handle in place with two M3 x 8mm screws.</figcaption>
+  <figcaption>2. Use four (4) M3 x 8mm screws to attach the front half of the panel.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][bottom3]{width="480"}][bottom3]
-  <figcaption>3. Place the assembled lid on top of the case. It is reversible.</figcaption>
+  <figcaption>3. Line up the rear panel with the rear base.</figcaption>
 </figure>
 
 <figure markdown>
   [![illustration][bottom4]{width="480"}][bottom4]
-  <figcaption>4. Use eight (8) M3 x 6mm screws to attach the lid.</figcaption>
+  <figcaption>4. Use four (4) more screws to attach the real bottom panel.</figcaption>
 </figure>
 
 ### Finished Reference

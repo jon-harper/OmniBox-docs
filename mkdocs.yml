@@ -105,11 +105,10 @@ nav:
       - assembly_v2/lower_bay.md
       - assembly_v2/front.md
     - MCU & Panels:
-      # - assembly_v2/rear.md
       - assembly_v2/mcu.md
       - assembly_v2/display.md
+      - assembly_v2/rear_lid.md
       - assembly_v2/bottom.md
-      - assembly_v2/lid.md
   - Version History:
     - history/index.md
     - Prior Releases:
