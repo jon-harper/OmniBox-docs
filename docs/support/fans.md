@@ -5,7 +5,7 @@ authors: Jon Harper
 date: 2022-07-03
 ---
 
-This is a list of all fans sizes that OmniBox currently supports via fan cages. OmniBox has optional, concealed mounts for 40x40x10mm fans. These do not use fan cages or gaskets.
+This is a list of all fans sizes that OmniBox currently supports via fan cages. OmniBox has optional, concealed mounts for 40mm x 10mm fans. These do not use fan cages or gaskets.
 
 <figure markdown>
   [![external fan cages][external_fan]{ width="480" }][external_fan]
@@ -17,34 +17,37 @@ Fan cages and fan gaskets are stored in the [:material-git: `Fans`][git_fans] gi
 <!-- Template
 [![product picture][img_]{width="200"}][img_]
 
-[:material-git: GitHub Folder][git_]
+[:material-git: Files: GitHub Folder][git_]
 
 [:material-cart: Product Link][bom_]
  -->
+## 40mm Axial Fans
 
-### 40x40x10mm Axial Fan
+### 40mm x 10mm
 
-[:material-git: GitHub Folder][git_fans_4010]{ .md-button }
+[:material-git: Files: `40x10`][git_fans_4010]{ .md-button }
 
 [:material-cart: Product Link][bom_4010]{ .md-button }
 
 [![product picture][img_4010]{width="200"}][img_4010]
 
-- Mounting: 4x M3 x 16mm
+- Mounting: 4x M3 x 16mm (12mm if counterbored)
 
-### 40x40x20mm Axial Fan
+### 40mm x 20mm
 
-[:material-git: GitHub Folder][git_fans_4020]{ .md-button }
+[:material-git: Files: `40x20`][git_fans_4020]{ .md-button }
 
 [:material-cart: Product Link][bom_4020]{ .md-button }
 
 [![product picture][img_4020]{width="200"}][img_4020]
 
-- Mounting: 4x M3 x 30mm
+- Mounting: 4x M3 x 30mm (25mm if counterbored)
 
-### 60x60x15mm Axial Fan
+## 60mm Axial Fans
 
-[:material-git: GitHub Folder][git_fans_6015]{ .md-button }
+### 60mm x 15mm
+
+[:material-git: Files: `60x15`][git_fans_6015]{ .md-button }
 
 [:material-cart: Product Link][bom_6015]{ .md-button }
 
@@ -52,9 +55,9 @@ Fan cages and fan gaskets are stored in the [:material-git: `Fans`][git_fans] gi
 
 - Mounting: 4x M3 x 25mm
 
-### 60x60x20mm Axial Fan
+### 60mm x 20mm
 
-[:material-git: GitHub Folder][git_fans_6020]{ .md-button }
+[:material-git: Files: `60x20`][git_fans_6020]{ .md-button }
 
 [:material-cart: Product Link][bom_6020]{ .md-button }
 
@@ -62,9 +65,9 @@ Fan cages and fan gaskets are stored in the [:material-git: `Fans`][git_fans] gi
 
 - Mounting: 4x M3 x 30mm
 
-### 60x60x25mm Axial Fan
+### 60mm x 25mm
 
-[:material-git: GitHub Folder][git_fans_6025]{ .md-button }
+[:material-git: Files: `60x25`][git_fans_6025]{ .md-button }
 
 [:material-cart: Product Link][bom_6025]{ .md-button }
 
@@ -72,9 +75,11 @@ Fan cages and fan gaskets are stored in the [:material-git: `Fans`][git_fans] gi
 
 - Mounting: 4x M3 x 35mm
 
-### 80x80x20mm Axial Fan
+## 80mm Axial Fans
 
-[:material-git: GitHub Folder][git_fans_8020]{ .md-button }
+### 80mm x 20mm
+
+[:material-git: Files: `80x20`][git_fans_8020]{ .md-button }
 
 [:material-cart: Product Link][bom_8020]{ .md-button }
 
@@ -82,9 +87,9 @@ Fan cages and fan gaskets are stored in the [:material-git: `Fans`][git_fans] gi
 
 - Mounting: 4x M4 x 30mm
 
-### 80x80x25mm Axial Fan
+### 80mm x 25mm
 
-[:material-git: GitHub Folder][git_fans_8025]{ .md-button }
+[:material-git: Files: `80x25`][git_fans_8025]{ .md-button }
 
 [:material-cart: Product Link][bom_8025]{ .md-button }
 
@@ -92,9 +97,11 @@ Fan cages and fan gaskets are stored in the [:material-git: `Fans`][git_fans] gi
 
 - Mounting: 4x M4 x 35mm
 
-### 92x92x25mm Axial Fan
+## Large Axial Fans
 
-[:material-git: GitHub Folder][git_fans_9225]{ .md-button }
+### 92mm x 25mm
+
+[:material-git: Files: `92x25`][git_fans_9225]{ .md-button }
 
 [:material-cart: Product Link][bom_9225]{ .md-button }
 
@@ -102,9 +109,9 @@ Fan cages and fan gaskets are stored in the [:material-git: `Fans`][git_fans] gi
 
 - Mounting: 4x M4 x 35mm
 
-### 120x120x25mm Axial Fan
+### 120mm x 25mm
 
-[:material-git: GitHub Folder][git_fans_12025]{ .md-button }
+[:material-git: Files: `120x25`][git_fans_12025]{ .md-button }
 
 [:material-cart: Product Link][bom_12025]{ .md-button }
 

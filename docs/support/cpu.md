@@ -19,7 +19,7 @@ If you do not use an SBC, the side of the bay can be used as a [Side Panel][pane
 <!-- Template
 [![product picture][img_btt_skr_3]{width="200"}][img_]
 
-[:material-git: GitHub Folder][git_]
+[:material-git: Files: ][git_]
 
 [:material-cart: Product Link][bom_]
  -->
@@ -28,7 +28,7 @@ If you do not use an SBC, the side of the bay can be used as a [Side Panel][pane
 
 ### Raspberry Pi 3B+
 
-[:material-git: GitHub Folder][git_rpi_3b_plus]{ .md-button }
+[:material-git: Files: `Raspberry Pi 3B Plus`][git_rpi_3b_plus]{ .md-button }
 
 [:material-cart: Product Link][bom_rpi_3b_plus]{ .md-button }
 
@@ -38,13 +38,20 @@ Mounting: 4x M3
 
 ### Raspberry Pi 4B
 
-[:material-git: GitHub Folder][git_rpi_4b]{ .md-button }
+[:material-git: Files: `Raspberry Pi 4B`][git_rpi_4b]{ .md-button }
 
 [:material-cart: Product Link][bom_rpi_4b]{ .md-button }
 
 [![product picture][img_rpi_4b]{width="200"}][img_rpi_4b]
 
 Mounting: 4x M3
+
+### Universal Mount
+
+[:material-git: Files: `Raspberry Universal`][git_rpi_universal]{ .md-button }
+
+- Mounting: 4x M3
+- Note: This tray is compatible with *any* board using the Raspberrty Pi mounting hole pattern.
 
 [cpu]: ../img/components/cpu.png
 [img_rpi_3b]: ../img/parts/rpi_3b_plus.jpg

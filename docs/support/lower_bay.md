@@ -15,7 +15,7 @@ There are two types of Lower Bay Trays: Short and Long. A Long length tray cover
 </figure>
 
 <!-- Template
-[:material-git: GitHub Folder][git_]{ .md-button }
+[:material-git: Files: ``][git_]{ .md-button }
 
 [:material-cart: Product Link][bom_]{ .md-button }
 
@@ -31,7 +31,7 @@ Long trays for buck converters often have a 40mm fan mount. This is particularly
 
 ### Basic 2A LM2596
 
-[:material-git: GitHub Folder][git_basic_lm2596]{ .md-button }
+[:material-git: Files: `Generic LM2596`][git_basic_lm2596]{ .md-button }
 
 [:material-cart: Product Link][bom_basic_lm2596]{ .md-button }
 
@@ -44,7 +44,7 @@ Long trays for buck converters often have a 40mm fan mount. This is particularly
 
 ### DROK 2A LM2596 with LED
 
-[:material-git: GitHub Folder][git_drok_2A]{ .md-button }
+[:material-git: Files: `DROK LM2596 with LED`][git_drok_2A]{ .md-button }
 
 [:material-cart: Product Link][bom_drok_2A]{ .md-button }
 
@@ -58,7 +58,7 @@ Long trays for buck converters often have a 40mm fan mount. This is particularly
 
 ### HiLetGo 2A LM2596 with LED
 
-[:material-git: GitHub Folder][git_hiletgo_2A]{ .md-button }
+[:material-git: Files: `HiLetGo LM2596 with LED`][git_hiletgo_2A]{ .md-button }
 
 [:material-cart: Product Link][bom_hiletgo_2A]{ .md-button }
 
@@ -72,7 +72,7 @@ Long trays for buck converters often have a 40mm fan mount. This is particularly
 
 ### DROK 3A LM2596 with LED
 
-[:material-git: GitHub Folder][git_drok_3A]{ .md-button }
+[:material-git: Files: `DROK 3A LM2596 with LED`][git_drok_3A]{ .md-button }
 
 [:material-cart: Product Link][bom_drok_3A]{ .md-button }
 
@@ -88,7 +88,7 @@ Long trays for buck converters often have a 40mm fan mount. This is particularly
 
 [![product picture][img_drok_5a]{width="200"}][img_drok_5a]
 
-[:material-git: GitHub Folder][git_drok_5A]{ .md-button }
+[:material-git: Files: `DROK 5A Buck with LED`][git_drok_5A]{ .md-button }
 
 [:material-cart: Product Link][bom_drok_5A]{ .md-button }
 
@@ -103,7 +103,7 @@ Trays:
 
 ### Creality MOSFET 
 
-[:material-git: GitHub Folder][git_creality_mosfet]{ .md-button }
+[:material-git: Files: `Creality MOSFET`][git_creality_mosfet]{ .md-button }
 
 [:material-cart: Product Link][bom_creality_mosfet]{ .md-button }
 
@@ -118,7 +118,7 @@ Trays:
 
 ### Fotek SSR-40 DA 
 
-[:material-git: GitHub Folder][git_fotek_ssr40da]{ .md-button }
+[:material-git: Files: `Fotek SSR-40 DA`][git_fotek_ssr40da]{ .md-button }
 
 [:material-cart: Product Link][bom_fotek_ssr_40da]{ .md-button }
 
@@ -133,7 +133,7 @@ Trays:
 
 <!-- ### BIGTREETECH UPS 24V 1.0 
 
-[:material-git: GitHub Folder][git_]{ .md-button }
+[:material-git: Files: ``][git_]{ .md-button }
 
 [:material-cart: Product Link][bom_btt_ups_24v]{ .md-button }
 
@@ -145,7 +145,7 @@ Trays:
 
 ### Wago 221 Lever Nuts 
 
-[:material-git: GitHub Folder][git_wago_221]{ .md-button }
+[:material-git: Files: `Wago Lever Nuts`][git_wago_221]{ .md-button }
 
 [:material-cart: Product Link][bom_wago_nuts]{ .md-button }
 
@@ -159,7 +159,7 @@ Trays:
 
 ### 4010/4020 Fans 
 
-[:material-git: GitHub Folder][git_tray_4010]{ .md-button }
+[:material-git: Files: `40mm Fan`][git_tray_4010]{ .md-button }
 
 [:material-cart: Product Link][bom_4010]{ .md-button }
 

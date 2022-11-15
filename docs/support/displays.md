@@ -17,12 +17,12 @@ Display Panels mount two different types of display screens:
   <figcaption>12864 TFT display mounted on a panel.</figcaption>
 </figure>
 
-Each supported MCU display screen has a subfolder in the [`/Panels/Display`][git_display] git folder. There is an optional STL file for a [replacement display knob][git_display_knob], as well.
+Each supported MCU display screen has a subfolder in the [:material-git: `/Panels/Display`][git_display] git folder. There is an optional STL file for a [:material-git: replacement display knob][git_display_knob], as well.
 
 Component names below link to the corresponding git folder. Most mounts require four (4) 6mm or M3 screws to fasten the display in place. Some mounts have two or three pieces and require additional screws.
 
 <!-- Template
-[:material-git: GitHub Folder][git_]{ .md-button }
+[:material-git: Files: ][git_]{ .md-button }
 
 [:material-cart: Product Link][bom_]{ .md-button }
 
@@ -30,7 +30,7 @@ Component names below link to the corresponding git folder. Most mounts require 
  -->
 ### Generic 12864
 
-[:material-git: GitHub Folder][git_generic_12864]{ .md-button }
+[:material-git: Files: `Generic 12864`][git_generic_12864]{ .md-button }
 
 [:material-cart: Product Link][bom_generic_12864]{ .md-button }
 
@@ -41,7 +41,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 ### FYSETC Mini 12864
 
-[:material-git: GitHub Folder][git_mini_12864]{ .md-button }
+[:material-git: Files: `Mini 12864`][git_mini_12864]{ .md-button }
 
 [:material-cart: Product Link][bom_mini_12864]{ .md-button }
 
@@ -52,7 +52,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 ### BIGTREETECH 2.4" TFT
 
-[:material-git: GitHub Folder][git_btt_tft_24]{ .md-button }
+[:material-git: Files: `BTT 2.4 TFT`][git_btt_tft_24]{ .md-button }
 
 [![product picture][img_btt_tft24]{width="200"}][img_btt_tft24]
 
@@ -61,7 +61,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 ### BIGTREETECH 3.5" TFT
 
-[:material-git: GitHub Folder][git_btt_tft_35]{ .md-button }
+[:material-git: Files: `BTT 3.5 TFT`][git_btt_tft_35]{ .md-button }
 
 [:material-cart: Product Link][bom_btt_tft35]{ .md-button }
 
@@ -72,7 +72,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 ### BIGTREETECH 3.5" TFT E3
 
-[:material-git: GitHub Folder][git_generic_12864]{ .md-button }
+[:material-git: Files: `Generic 12864`][git_generic_12864]{ .md-button }
 
 [:material-cart: Product Link][bom_btt_tft35_e3]{ .md-button }
 
@@ -83,7 +83,7 @@ Component names below link to the corresponding git folder. Most mounts require 
 
 <!-- ### BIGTREETECH 5.0
 
-[:material-git: GitHub Folder][git_btt_tft_50]{ .md-button }
+[:material-git: Files: ][git_btt_tft_50]{ .md-button }
 
 [:material-cart: Product Link][bom_]{ .md-button }
 
