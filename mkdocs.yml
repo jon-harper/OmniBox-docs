@@ -63,6 +63,9 @@ extra:
     - icon: fontawesome/brands/reddit
       link: https://www.reddit.com/user/jonspaceharper
       name: u/jonspaceharper on Reddit
+    - icon: simple/kofi
+      link: https://ko-fi.com/jonspaceharper
+      name: Support me on Ko-Fi!
 
 extra_css:
   - stylesheets/extra.css
@@ -74,14 +77,15 @@ nav:
   # - faq.md
   - license.md
 
-  - Supported Parts:
+  - Product Support:
     - support/index.md
-    - support/mcu.md
-    - support/cpu.md
-    - support/displays.md
-    - support/panel_mounts.md
-    - support/fans.md
-    - support/lower_bay.md
+    - Supported Parts:
+      - support/mcu.md
+      - support/cpu.md
+      - support/displays.md
+      - support/panel_mounts.md
+      - support/fans.md
+      - support/lower_bay.md
   - Requirements:
     - printing.md
     - bom.md
@@ -104,7 +108,7 @@ nav:
       # - assembly_v2/rear.md
       - assembly_v2/mcu.md
       - assembly_v2/display.md
-      # - assembly_v2/bottom.md
+      - assembly_v2/bottom.md
       - assembly_v2/lid.md
   - Version History:
     - history/index.md

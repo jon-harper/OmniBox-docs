@@ -294,7 +294,7 @@ OmniBox uses a common 30x11mm [:material-cart: snap-in SPST rocker switch][bom_s
 
 [![iec socket is highlighted in blue][img_iec]{width="480"}][img_iec]
 
-Power is provided through a standard [:material-cart: fused IEC C14 power socket][bom_iec]. A 5A fuse is typically adequate.
+Power is provided through a standard [:material-cart: fused IEC C14 power socket][bom_iec].
 
 [fans]:  support/fans.md
 [panel_mounts]:  support/panel_mounts.md
